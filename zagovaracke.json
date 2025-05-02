@@ -1,0 +1,4765 @@
+{
+  "nodes": {
+    "Asocijacija Duga": {
+      "Okrug": {
+        "0": "Mačvanski okrug\n",
+        "30": "Mačvanski okrug\n"
+      },
+      "Period": {
+        "0": "I kvartal",
+        "30": "II kvartal"
+      },
+      "Započeli sa sprovođenjem neke zagovaračke inicijative u izveštajnom periodu?": {
+        "0": "Ne",
+        "30": "Ne"
+      },
+      "Koliko ste ukupno zagovaračkih inicijativa sprovodili u izveštajnom periodu?": {
+        "0": "",
+        "30": ""
+      },
+      "Naziv zagovaračke inicijative - 1": {
+        "0": "",
+        "30": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 1": {
+        "0": "",
+        "30": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 1": {
+        "0": "",
+        "30": ""
+      },
+      "Trenutni status inicijative - 1": {
+        "0": "",
+        "30": ""
+      },
+      "Fokus inicijative - 1": {
+        "0": "",
+        "30": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 1": {
+        "0": "",
+        "30": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 1": {
+        "0": "",
+        "30": ""
+      },
+      "Naziv zagovaračke inicijative - 2": {
+        "0": "",
+        "30": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 2": {
+        "0": "",
+        "30": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 2": {
+        "0": "",
+        "30": ""
+      },
+      "Trenutni status inicijative - 2": {
+        "0": "",
+        "30": ""
+      },
+      "Fokus inicijative - 2": {
+        "0": "",
+        "30": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 2": {
+        "0": "",
+        "30": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 2": {
+        "0": "",
+        "30": ""
+      },
+      "Naziv zagovaračke inicijative - 3": {
+        "0": "",
+        "30": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 3": {
+        "0": "",
+        "30": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 3": {
+        "0": "",
+        "30": ""
+      },
+      "Trenutni status inicijative - 3": {
+        "0": "",
+        "30": ""
+      },
+      "Fokus inicijative - 3": {
+        "0": "",
+        "30": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 3": {
+        "0": "",
+        "30": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 3": {
+        "0": "",
+        "30": ""
+      },
+      "Naziv zagovaračke inicijative - 4": {
+        "0": "",
+        "30": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 4": {
+        "0": "",
+        "30": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 4": {
+        "0": "",
+        "30": ""
+      },
+      "Trenutni status inicijative - 4": {
+        "0": "",
+        "30": ""
+      },
+      "Fokus inicijative - 4": {
+        "0": "",
+        "30": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 4": {
+        "0": "",
+        "30": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 4": {
+        "0": "",
+        "30": ""
+      },
+      "Naziv zagovaračke inicijative - 5": {
+        "0": "",
+        "30": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 5": {
+        "0": "",
+        "30": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 5": {
+        "0": "",
+        "30": ""
+      },
+      "Trenutni status inicijative - 5": {
+        "0": "",
+        "30": ""
+      },
+      "Fokus inicijative - 5": {
+        "0": "",
+        "30": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 5": {
+        "0": "",
+        "30": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 5": {
+        "0": "",
+        "30": ""
+      }
+    },
+    "Labris - organizacija za lezbejska ljudska prava": {
+      "Okrug": {
+        "1": "Grad Beograd\n",
+        "56": "Grad Beograd\n"
+      },
+      "Period": {
+        "1": "I kvartal",
+        "56": "II kvartal"
+      },
+      "Započeli sa sprovođenjem neke zagovaračke inicijative u izveštajnom periodu?": {
+        "1": "Ne",
+        "56": "Ne"
+      },
+      "Koliko ste ukupno zagovaračkih inicijativa sprovodili u izveštajnom periodu?": {
+        "1": "",
+        "56": ""
+      },
+      "Naziv zagovaračke inicijative - 1": {
+        "1": "",
+        "56": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 1": {
+        "1": "",
+        "56": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 1": {
+        "1": "",
+        "56": ""
+      },
+      "Trenutni status inicijative - 1": {
+        "1": "",
+        "56": ""
+      },
+      "Fokus inicijative - 1": {
+        "1": "",
+        "56": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 1": {
+        "1": "",
+        "56": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 1": {
+        "1": "",
+        "56": ""
+      },
+      "Naziv zagovaračke inicijative - 2": {
+        "1": "",
+        "56": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 2": {
+        "1": "",
+        "56": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 2": {
+        "1": "",
+        "56": ""
+      },
+      "Trenutni status inicijative - 2": {
+        "1": "",
+        "56": ""
+      },
+      "Fokus inicijative - 2": {
+        "1": "",
+        "56": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 2": {
+        "1": "",
+        "56": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 2": {
+        "1": "",
+        "56": ""
+      },
+      "Naziv zagovaračke inicijative - 3": {
+        "1": "",
+        "56": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 3": {
+        "1": "",
+        "56": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 3": {
+        "1": "",
+        "56": ""
+      },
+      "Trenutni status inicijative - 3": {
+        "1": "",
+        "56": ""
+      },
+      "Fokus inicijative - 3": {
+        "1": "",
+        "56": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 3": {
+        "1": "",
+        "56": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 3": {
+        "1": "",
+        "56": ""
+      },
+      "Naziv zagovaračke inicijative - 4": {
+        "1": "",
+        "56": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 4": {
+        "1": "",
+        "56": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 4": {
+        "1": "",
+        "56": ""
+      },
+      "Trenutni status inicijative - 4": {
+        "1": "",
+        "56": ""
+      },
+      "Fokus inicijative - 4": {
+        "1": "",
+        "56": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 4": {
+        "1": "",
+        "56": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 4": {
+        "1": "",
+        "56": ""
+      },
+      "Naziv zagovaračke inicijative - 5": {
+        "1": "",
+        "56": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 5": {
+        "1": "",
+        "56": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 5": {
+        "1": "",
+        "56": ""
+      },
+      "Trenutni status inicijative - 5": {
+        "1": "",
+        "56": ""
+      },
+      "Fokus inicijative - 5": {
+        "1": "",
+        "56": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 5": {
+        "1": "",
+        "56": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 5": {
+        "1": "",
+        "56": ""
+      }
+    },
+    "Udruženje šansa za roditeljstvo": {
+      "Okrug": {
+        "2": "Grad Beograd\n",
+        "39": "Grad Beograd\n"
+      },
+      "Period": {
+        "2": "I kvartal",
+        "39": "II kvartal"
+      },
+      "Započeli sa sprovođenjem neke zagovaračke inicijative u izveštajnom periodu?": {
+        "2": "Ne",
+        "39": "Ne"
+      },
+      "Koliko ste ukupno zagovaračkih inicijativa sprovodili u izveštajnom periodu?": {
+        "2": "",
+        "39": ""
+      },
+      "Naziv zagovaračke inicijative - 1": {
+        "2": "",
+        "39": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 1": {
+        "2": "",
+        "39": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 1": {
+        "2": "",
+        "39": ""
+      },
+      "Trenutni status inicijative - 1": {
+        "2": "",
+        "39": ""
+      },
+      "Fokus inicijative - 1": {
+        "2": "",
+        "39": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 1": {
+        "2": "",
+        "39": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 1": {
+        "2": "",
+        "39": ""
+      },
+      "Naziv zagovaračke inicijative - 2": {
+        "2": "",
+        "39": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 2": {
+        "2": "",
+        "39": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 2": {
+        "2": "",
+        "39": ""
+      },
+      "Trenutni status inicijative - 2": {
+        "2": "",
+        "39": ""
+      },
+      "Fokus inicijative - 2": {
+        "2": "",
+        "39": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 2": {
+        "2": "",
+        "39": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 2": {
+        "2": "",
+        "39": ""
+      },
+      "Naziv zagovaračke inicijative - 3": {
+        "2": "",
+        "39": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 3": {
+        "2": "",
+        "39": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 3": {
+        "2": "",
+        "39": ""
+      },
+      "Trenutni status inicijative - 3": {
+        "2": "",
+        "39": ""
+      },
+      "Fokus inicijative - 3": {
+        "2": "",
+        "39": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 3": {
+        "2": "",
+        "39": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 3": {
+        "2": "",
+        "39": ""
+      },
+      "Naziv zagovaračke inicijative - 4": {
+        "2": "",
+        "39": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 4": {
+        "2": "",
+        "39": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 4": {
+        "2": "",
+        "39": ""
+      },
+      "Trenutni status inicijative - 4": {
+        "2": "",
+        "39": ""
+      },
+      "Fokus inicijative - 4": {
+        "2": "",
+        "39": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 4": {
+        "2": "",
+        "39": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 4": {
+        "2": "",
+        "39": ""
+      },
+      "Naziv zagovaračke inicijative - 5": {
+        "2": "",
+        "39": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 5": {
+        "2": "",
+        "39": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 5": {
+        "2": "",
+        "39": ""
+      },
+      "Trenutni status inicijative - 5": {
+        "2": "",
+        "39": ""
+      },
+      "Fokus inicijative - 5": {
+        "2": "",
+        "39": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 5": {
+        "2": "",
+        "39": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 5": {
+        "2": "",
+        "39": ""
+      }
+    },
+    "Žensko udruženje kolubarskog okruga": {
+      "Okrug": {
+        "3": "Grad Beograd\n",
+        "32": "Grad Beograd\n"
+      },
+      "Period": {
+        "3": "I kvartal",
+        "32": "II kvartal"
+      },
+      "Započeli sa sprovođenjem neke zagovaračke inicijative u izveštajnom periodu?": {
+        "3": "Ne",
+        "32": "Da"
+      },
+      "Koliko ste ukupno zagovaračkih inicijativa sprovodili u izveštajnom periodu?": {
+        "3": "",
+        "32": "1\n"
+      },
+      "Naziv zagovaračke inicijative - 1": {
+        "3": "",
+        "32": "Alimentacioni fond\n"
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 1": {
+        "3": "",
+        "32": "Nacionalnim donosiocima odluka"
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 1": {
+        "3": "",
+        "32": "Inicijativa je u pripremi i upućuje se Narodnoj skupštini\n"
+      },
+      "Trenutni status inicijative - 1": {
+        "3": "",
+        "32": "Definisana (određen cilj i razrađen plan zagovaranja)"
+      },
+      "Fokus inicijative - 1": {
+        "3": "",
+        "32": "Socijalna inkluzija i ranjive grupe"
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 1": {
+        "3": "",
+        "32": "Ne"
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 1": {
+        "3": "",
+        "32": ""
+      },
+      "Naziv zagovaračke inicijative - 2": {
+        "3": "",
+        "32": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 2": {
+        "3": "",
+        "32": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 2": {
+        "3": "",
+        "32": ""
+      },
+      "Trenutni status inicijative - 2": {
+        "3": "",
+        "32": ""
+      },
+      "Fokus inicijative - 2": {
+        "3": "",
+        "32": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 2": {
+        "3": "",
+        "32": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 2": {
+        "3": "",
+        "32": ""
+      },
+      "Naziv zagovaračke inicijative - 3": {
+        "3": "",
+        "32": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 3": {
+        "3": "",
+        "32": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 3": {
+        "3": "",
+        "32": ""
+      },
+      "Trenutni status inicijative - 3": {
+        "3": "",
+        "32": ""
+      },
+      "Fokus inicijative - 3": {
+        "3": "",
+        "32": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 3": {
+        "3": "",
+        "32": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 3": {
+        "3": "",
+        "32": ""
+      },
+      "Naziv zagovaračke inicijative - 4": {
+        "3": "",
+        "32": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 4": {
+        "3": "",
+        "32": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 4": {
+        "3": "",
+        "32": ""
+      },
+      "Trenutni status inicijative - 4": {
+        "3": "",
+        "32": ""
+      },
+      "Fokus inicijative - 4": {
+        "3": "",
+        "32": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 4": {
+        "3": "",
+        "32": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 4": {
+        "3": "",
+        "32": ""
+      },
+      "Naziv zagovaračke inicijative - 5": {
+        "3": "",
+        "32": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 5": {
+        "3": "",
+        "32": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 5": {
+        "3": "",
+        "32": ""
+      },
+      "Trenutni status inicijative - 5": {
+        "3": "",
+        "32": ""
+      },
+      "Fokus inicijative - 5": {
+        "3": "",
+        "32": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 5": {
+        "3": "",
+        "32": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 5": {
+        "3": "",
+        "32": ""
+      }
+    },
+    "Udruženje Tim 42": {
+      "Okrug": {
+        "4": "Jablanički okrug\n",
+        "33": "Jablanički okrug\n"
+      },
+      "Period": {
+        "4": "I kvartal",
+        "33": "II kvartal"
+      },
+      "Započeli sa sprovođenjem neke zagovaračke inicijative u izveštajnom periodu?": {
+        "4": "Ne",
+        "33": "Da"
+      },
+      "Koliko ste ukupno zagovaračkih inicijativa sprovodili u izveštajnom periodu?": {
+        "4": "",
+        "33": "2\n"
+      },
+      "Naziv zagovaračke inicijative - 1": {
+        "4": "",
+        "33": "Zagovaranje za plan kvaliteta vazduha\n"
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 1": {
+        "4": "",
+        "33": "Lokalnim donosiocima odluka"
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 1": {
+        "4": "",
+        "33": "Grad Leskovac\n"
+      },
+      "Trenutni status inicijative - 1": {
+        "4": "",
+        "33": "Pokrenuta (javno objavljeno da se počinje sa zagovaranjem)"
+      },
+      "Fokus inicijative - 1": {
+        "4": "",
+        "33": "Zaštita životne sredine"
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 1": {
+        "4": "",
+        "33": "Ne"
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 1": {
+        "4": "",
+        "33": ""
+      },
+      "Naziv zagovaračke inicijative - 2": {
+        "4": "",
+        "33": "Inicijativa za donošenje Programa kontrole kvaliteta vazduha na teritoriji opštine Vlasotince\n"
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 2": {
+        "4": "",
+        "33": "Lokalnim donosiocima odluka"
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 2": {
+        "4": "",
+        "33": "Planirano je da se uputi Opštinskom veću i Skupštini\n"
+      },
+      "Trenutni status inicijative - 2": {
+        "4": "",
+        "33": "Pokrenuta (javno objavljeno da se počinje sa zagovaranjem)"
+      },
+      "Fokus inicijative - 2": {
+        "4": "",
+        "33": "Zaštita životne sredine"
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 2": {
+        "4": "",
+        "33": "Ne"
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 2": {
+        "4": "",
+        "33": ""
+      },
+      "Naziv zagovaračke inicijative - 3": {
+        "4": "",
+        "33": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 3": {
+        "4": "",
+        "33": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 3": {
+        "4": "",
+        "33": ""
+      },
+      "Trenutni status inicijative - 3": {
+        "4": "",
+        "33": ""
+      },
+      "Fokus inicijative - 3": {
+        "4": "",
+        "33": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 3": {
+        "4": "",
+        "33": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 3": {
+        "4": "",
+        "33": ""
+      },
+      "Naziv zagovaračke inicijative - 4": {
+        "4": "",
+        "33": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 4": {
+        "4": "",
+        "33": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 4": {
+        "4": "",
+        "33": ""
+      },
+      "Trenutni status inicijative - 4": {
+        "4": "",
+        "33": ""
+      },
+      "Fokus inicijative - 4": {
+        "4": "",
+        "33": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 4": {
+        "4": "",
+        "33": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 4": {
+        "4": "",
+        "33": ""
+      },
+      "Naziv zagovaračke inicijative - 5": {
+        "4": "",
+        "33": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 5": {
+        "4": "",
+        "33": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 5": {
+        "4": "",
+        "33": ""
+      },
+      "Trenutni status inicijative - 5": {
+        "4": "",
+        "33": ""
+      },
+      "Fokus inicijative - 5": {
+        "4": "",
+        "33": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 5": {
+        "4": "",
+        "33": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 5": {
+        "4": "",
+        "33": ""
+      }
+    },
+    "Društvo za razvoj kreativnosti": {
+      "Okrug": {
+        "5": "Nišavski okrug\n",
+        "45": "Nišavski okrug\n"
+      },
+      "Period": {
+        "5": "I kvartal",
+        "45": "II kvartal"
+      },
+      "Započeli sa sprovođenjem neke zagovaračke inicijative u izveštajnom periodu?": {
+        "5": "Ne",
+        "45": "Ne"
+      },
+      "Koliko ste ukupno zagovaračkih inicijativa sprovodili u izveštajnom periodu?": {
+        "5": "",
+        "45": ""
+      },
+      "Naziv zagovaračke inicijative - 1": {
+        "5": "",
+        "45": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 1": {
+        "5": "",
+        "45": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 1": {
+        "5": "",
+        "45": ""
+      },
+      "Trenutni status inicijative - 1": {
+        "5": "",
+        "45": ""
+      },
+      "Fokus inicijative - 1": {
+        "5": "",
+        "45": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 1": {
+        "5": "",
+        "45": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 1": {
+        "5": "",
+        "45": ""
+      },
+      "Naziv zagovaračke inicijative - 2": {
+        "5": "",
+        "45": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 2": {
+        "5": "",
+        "45": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 2": {
+        "5": "",
+        "45": ""
+      },
+      "Trenutni status inicijative - 2": {
+        "5": "",
+        "45": ""
+      },
+      "Fokus inicijative - 2": {
+        "5": "",
+        "45": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 2": {
+        "5": "",
+        "45": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 2": {
+        "5": "",
+        "45": ""
+      },
+      "Naziv zagovaračke inicijative - 3": {
+        "5": "",
+        "45": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 3": {
+        "5": "",
+        "45": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 3": {
+        "5": "",
+        "45": ""
+      },
+      "Trenutni status inicijative - 3": {
+        "5": "",
+        "45": ""
+      },
+      "Fokus inicijative - 3": {
+        "5": "",
+        "45": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 3": {
+        "5": "",
+        "45": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 3": {
+        "5": "",
+        "45": ""
+      },
+      "Naziv zagovaračke inicijative - 4": {
+        "5": "",
+        "45": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 4": {
+        "5": "",
+        "45": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 4": {
+        "5": "",
+        "45": ""
+      },
+      "Trenutni status inicijative - 4": {
+        "5": "",
+        "45": ""
+      },
+      "Fokus inicijative - 4": {
+        "5": "",
+        "45": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 4": {
+        "5": "",
+        "45": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 4": {
+        "5": "",
+        "45": ""
+      },
+      "Naziv zagovaračke inicijative - 5": {
+        "5": "",
+        "45": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 5": {
+        "5": "",
+        "45": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 5": {
+        "5": "",
+        "45": ""
+      },
+      "Trenutni status inicijative - 5": {
+        "5": "",
+        "45": ""
+      },
+      "Fokus inicijative - 5": {
+        "5": "",
+        "45": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 5": {
+        "5": "",
+        "45": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 5": {
+        "5": "",
+        "45": ""
+      }
+    },
+    "UG \"Klara i Rosa\"": {
+      "Okrug": {
+        "6": "Severno-bački okrug\n",
+        "31": "Severno-bački okrug\n"
+      },
+      "Period": {
+        "6": "I kvartal",
+        "31": "II kvartal"
+      },
+      "Započeli sa sprovođenjem neke zagovaračke inicijative u izveštajnom periodu?": {
+        "6": "Ne",
+        "31": "Ne"
+      },
+      "Koliko ste ukupno zagovaračkih inicijativa sprovodili u izveštajnom periodu?": {
+        "6": "",
+        "31": ""
+      },
+      "Naziv zagovaračke inicijative - 1": {
+        "6": "",
+        "31": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 1": {
+        "6": "",
+        "31": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 1": {
+        "6": "",
+        "31": ""
+      },
+      "Trenutni status inicijative - 1": {
+        "6": "",
+        "31": ""
+      },
+      "Fokus inicijative - 1": {
+        "6": "",
+        "31": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 1": {
+        "6": "",
+        "31": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 1": {
+        "6": "",
+        "31": ""
+      },
+      "Naziv zagovaračke inicijative - 2": {
+        "6": "",
+        "31": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 2": {
+        "6": "",
+        "31": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 2": {
+        "6": "",
+        "31": ""
+      },
+      "Trenutni status inicijative - 2": {
+        "6": "",
+        "31": ""
+      },
+      "Fokus inicijative - 2": {
+        "6": "",
+        "31": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 2": {
+        "6": "",
+        "31": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 2": {
+        "6": "",
+        "31": ""
+      },
+      "Naziv zagovaračke inicijative - 3": {
+        "6": "",
+        "31": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 3": {
+        "6": "",
+        "31": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 3": {
+        "6": "",
+        "31": ""
+      },
+      "Trenutni status inicijative - 3": {
+        "6": "",
+        "31": ""
+      },
+      "Fokus inicijative - 3": {
+        "6": "",
+        "31": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 3": {
+        "6": "",
+        "31": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 3": {
+        "6": "",
+        "31": ""
+      },
+      "Naziv zagovaračke inicijative - 4": {
+        "6": "",
+        "31": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 4": {
+        "6": "",
+        "31": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 4": {
+        "6": "",
+        "31": ""
+      },
+      "Trenutni status inicijative - 4": {
+        "6": "",
+        "31": ""
+      },
+      "Fokus inicijative - 4": {
+        "6": "",
+        "31": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 4": {
+        "6": "",
+        "31": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 4": {
+        "6": "",
+        "31": ""
+      },
+      "Naziv zagovaračke inicijative - 5": {
+        "6": "",
+        "31": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 5": {
+        "6": "",
+        "31": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 5": {
+        "6": "",
+        "31": ""
+      },
+      "Trenutni status inicijative - 5": {
+        "6": "",
+        "31": ""
+      },
+      "Fokus inicijative - 5": {
+        "6": "",
+        "31": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 5": {
+        "6": "",
+        "31": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 5": {
+        "6": "",
+        "31": ""
+      }
+    },
+    "Prostor": {
+      "Okrug": {
+        "7": "Grad Beograd\n",
+        "57": "Grad Beograd\n"
+      },
+      "Period": {
+        "7": "I kvartal",
+        "57": "II kvartal"
+      },
+      "Započeli sa sprovođenjem neke zagovaračke inicijative u izveštajnom periodu?": {
+        "7": "Ne",
+        "57": "Ne"
+      },
+      "Koliko ste ukupno zagovaračkih inicijativa sprovodili u izveštajnom periodu?": {
+        "7": "",
+        "57": ""
+      },
+      "Naziv zagovaračke inicijative - 1": {
+        "7": "",
+        "57": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 1": {
+        "7": "",
+        "57": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 1": {
+        "7": "",
+        "57": ""
+      },
+      "Trenutni status inicijative - 1": {
+        "7": "",
+        "57": ""
+      },
+      "Fokus inicijative - 1": {
+        "7": "",
+        "57": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 1": {
+        "7": "",
+        "57": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 1": {
+        "7": "",
+        "57": ""
+      },
+      "Naziv zagovaračke inicijative - 2": {
+        "7": "",
+        "57": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 2": {
+        "7": "",
+        "57": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 2": {
+        "7": "",
+        "57": ""
+      },
+      "Trenutni status inicijative - 2": {
+        "7": "",
+        "57": ""
+      },
+      "Fokus inicijative - 2": {
+        "7": "",
+        "57": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 2": {
+        "7": "",
+        "57": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 2": {
+        "7": "",
+        "57": ""
+      },
+      "Naziv zagovaračke inicijative - 3": {
+        "7": "",
+        "57": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 3": {
+        "7": "",
+        "57": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 3": {
+        "7": "",
+        "57": ""
+      },
+      "Trenutni status inicijative - 3": {
+        "7": "",
+        "57": ""
+      },
+      "Fokus inicijative - 3": {
+        "7": "",
+        "57": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 3": {
+        "7": "",
+        "57": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 3": {
+        "7": "",
+        "57": ""
+      },
+      "Naziv zagovaračke inicijative - 4": {
+        "7": "",
+        "57": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 4": {
+        "7": "",
+        "57": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 4": {
+        "7": "",
+        "57": ""
+      },
+      "Trenutni status inicijative - 4": {
+        "7": "",
+        "57": ""
+      },
+      "Fokus inicijative - 4": {
+        "7": "",
+        "57": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 4": {
+        "7": "",
+        "57": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 4": {
+        "7": "",
+        "57": ""
+      },
+      "Naziv zagovaračke inicijative - 5": {
+        "7": "",
+        "57": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 5": {
+        "7": "",
+        "57": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 5": {
+        "7": "",
+        "57": ""
+      },
+      "Trenutni status inicijative - 5": {
+        "7": "",
+        "57": ""
+      },
+      "Fokus inicijative - 5": {
+        "7": "",
+        "57": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 5": {
+        "7": "",
+        "57": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 5": {
+        "7": "",
+        "57": ""
+      }
+    },
+    "Alternativa za bezbednije hemikalije - ALHem": {
+      "Okrug": {
+        "8": "Grad Beograd\n",
+        "38": "Grad Beograd\n"
+      },
+      "Period": {
+        "8": "I kvartal",
+        "38": "II kvartal"
+      },
+      "Započeli sa sprovođenjem neke zagovaračke inicijative u izveštajnom periodu?": {
+        "8": "Ne",
+        "38": "Ne"
+      },
+      "Koliko ste ukupno zagovaračkih inicijativa sprovodili u izveštajnom periodu?": {
+        "8": "",
+        "38": ""
+      },
+      "Naziv zagovaračke inicijative - 1": {
+        "8": "",
+        "38": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 1": {
+        "8": "",
+        "38": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 1": {
+        "8": "",
+        "38": ""
+      },
+      "Trenutni status inicijative - 1": {
+        "8": "",
+        "38": ""
+      },
+      "Fokus inicijative - 1": {
+        "8": "",
+        "38": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 1": {
+        "8": "",
+        "38": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 1": {
+        "8": "",
+        "38": ""
+      },
+      "Naziv zagovaračke inicijative - 2": {
+        "8": "",
+        "38": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 2": {
+        "8": "",
+        "38": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 2": {
+        "8": "",
+        "38": ""
+      },
+      "Trenutni status inicijative - 2": {
+        "8": "",
+        "38": ""
+      },
+      "Fokus inicijative - 2": {
+        "8": "",
+        "38": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 2": {
+        "8": "",
+        "38": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 2": {
+        "8": "",
+        "38": ""
+      },
+      "Naziv zagovaračke inicijative - 3": {
+        "8": "",
+        "38": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 3": {
+        "8": "",
+        "38": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 3": {
+        "8": "",
+        "38": ""
+      },
+      "Trenutni status inicijative - 3": {
+        "8": "",
+        "38": ""
+      },
+      "Fokus inicijative - 3": {
+        "8": "",
+        "38": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 3": {
+        "8": "",
+        "38": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 3": {
+        "8": "",
+        "38": ""
+      },
+      "Naziv zagovaračke inicijative - 4": {
+        "8": "",
+        "38": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 4": {
+        "8": "",
+        "38": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 4": {
+        "8": "",
+        "38": ""
+      },
+      "Trenutni status inicijative - 4": {
+        "8": "",
+        "38": ""
+      },
+      "Fokus inicijative - 4": {
+        "8": "",
+        "38": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 4": {
+        "8": "",
+        "38": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 4": {
+        "8": "",
+        "38": ""
+      },
+      "Naziv zagovaračke inicijative - 5": {
+        "8": "",
+        "38": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 5": {
+        "8": "",
+        "38": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 5": {
+        "8": "",
+        "38": ""
+      },
+      "Trenutni status inicijative - 5": {
+        "8": "",
+        "38": ""
+      },
+      "Fokus inicijative - 5": {
+        "8": "",
+        "38": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 5": {
+        "8": "",
+        "38": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 5": {
+        "8": "",
+        "38": ""
+      }
+    },
+    "Okular": {
+      "Okrug": {
+        "9": "Rasinski okrug\n",
+        "42": "Rasinski okrug\n"
+      },
+      "Period": {
+        "9": "I kvartal",
+        "42": "II kvartal"
+      },
+      "Započeli sa sprovođenjem neke zagovaračke inicijative u izveštajnom periodu?": {
+        "9": "Da",
+        "42": "Ne"
+      },
+      "Koliko ste ukupno zagovaračkih inicijativa sprovodili u izveštajnom periodu?": {
+        "9": "2\n",
+        "42": ""
+      },
+      "Naziv zagovaračke inicijative - 1": {
+        "9": "Zagovaranje za raspisivanje građanskih izbora za mesne zajednice i posrednog i neposrednog učešća mladih u njima\n",
+        "42": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 1": {
+        "9": "Lokalnim donosiocima odluka",
+        "42": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 1": {
+        "9": "Skupština opštine Ćićevac, predsednik Skupštine\n",
+        "42": ""
+      },
+      "Trenutni status inicijative - 1": {
+        "9": "Inicijativa formalno predstavljena / dostavljena donosiocima odluka",
+        "42": ""
+      },
+      "Fokus inicijative - 1": {
+        "9": "Mladi",
+        "42": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 1": {
+        "9": "Da",
+        "42": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 1": {
+        "9": "Primljen pozitivan odgovor od strane donosilaca odluka na podnetu zagovaračku inicijativu",
+        "42": ""
+      },
+      "Naziv zagovaračke inicijative - 2": {
+        "9": "Da Ćićevac diše zdravo\n",
+        "42": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 2": {
+        "9": "Lokalnim donosiocima odluka",
+        "42": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 2": {
+        "9": "Skupštini opštine Ćićevac, Savetu za zdravlje\n",
+        "42": ""
+      },
+      "Trenutni status inicijative - 2": {
+        "9": "Pokrenuta (javno objavljeno da se počinje sa zagovaranjem)",
+        "42": ""
+      },
+      "Fokus inicijative - 2": {
+        "9": "Zaštita životne sredine",
+        "42": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 2": {
+        "9": "Ne",
+        "42": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 2": {
+        "9": "",
+        "42": ""
+      },
+      "Naziv zagovaračke inicijative - 3": {
+        "9": "",
+        "42": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 3": {
+        "9": "",
+        "42": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 3": {
+        "9": "",
+        "42": ""
+      },
+      "Trenutni status inicijative - 3": {
+        "9": "",
+        "42": ""
+      },
+      "Fokus inicijative - 3": {
+        "9": "",
+        "42": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 3": {
+        "9": "",
+        "42": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 3": {
+        "9": "",
+        "42": ""
+      },
+      "Naziv zagovaračke inicijative - 4": {
+        "9": "",
+        "42": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 4": {
+        "9": "",
+        "42": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 4": {
+        "9": "",
+        "42": ""
+      },
+      "Trenutni status inicijative - 4": {
+        "9": "",
+        "42": ""
+      },
+      "Fokus inicijative - 4": {
+        "9": "",
+        "42": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 4": {
+        "9": "",
+        "42": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 4": {
+        "9": "",
+        "42": ""
+      },
+      "Naziv zagovaračke inicijative - 5": {
+        "9": "",
+        "42": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 5": {
+        "9": "",
+        "42": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 5": {
+        "9": "",
+        "42": ""
+      },
+      "Trenutni status inicijative - 5": {
+        "9": "",
+        "42": ""
+      },
+      "Fokus inicijative - 5": {
+        "9": "",
+        "42": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 5": {
+        "9": "",
+        "42": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 5": {
+        "9": "",
+        "42": ""
+      }
+    },
+    "CEPORA - Centar za pozitivan razvoj dece i omladine": {
+      "Okrug": {
+        "10": "Grad Beograd\n",
+        "54": "Grad Beograd\n"
+      },
+      "Period": {
+        "10": "I kvartal",
+        "54": "II kvartal"
+      },
+      "Započeli sa sprovođenjem neke zagovaračke inicijative u izveštajnom periodu?": {
+        "10": "Da",
+        "54": "Da"
+      },
+      "Koliko ste ukupno zagovaračkih inicijativa sprovodili u izveštajnom periodu?": {
+        "10": "1\n",
+        "54": "1\n"
+      },
+      "Naziv zagovaračke inicijative - 1": {
+        "10": "Zajedno za mlade: saradnja javnog i civilnog sektora u pružanju podrške mladima bez roditeljskog staranja u procesu osamostaljiv\n",
+        "54": "Unapređenje sistema podrške mladima na alternativnom staranju: jačanje uloge civilnog sektora\n"
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 1": {
+        "10": "Drugo (navedite)",
+        "54": "Lokalnim donosiocima odluka"
+      },
+      "Drugo - Nivo donosilaca odluka - 1": {
+        "10": "Stručni radnici koji organizuju i sprovode uslugu smeštaja za mlade bez roditeljskog staranja\n"
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 1": {
+        "10": "Gradski centar za socijalni rad u Beogradu, Centar za zaštitu odojčadi, dece i omladine, Centar za porodični smeštaj i usvojenje\n",
+        "54": "Lokalne samouprave u Srbiji\n"
+      },
+      "Trenutni status inicijative - 1": {
+        "10": "Definisana (određen cilj i razrađen plan zagovaranja)",
+        "54": "Pokrenuta (javno objavljeno da se počinje sa zagovaranjem)"
+      },
+      "Fokus inicijative - 1": {
+        "10": "Socijalna inkluzija i ranjive grupe",
+        "54": "Socijalna inkluzija i ranjive grupe"
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 1": {
+        "10": "Da",
+        "54": "Ne"
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 1": {
+        "10": "Drugo",
+        "54": ""
+      },
+      "Drugo - 1": {
+        "10": "Stručni radnici se prijavljuju za učešće na okruglom stolu.\n"
+      },
+      "Naziv zagovaračke inicijative - 2": {
+        "10": "",
+        "54": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 2": {
+        "10": "",
+        "54": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 2": {
+        "10": "",
+        "54": ""
+      },
+      "Trenutni status inicijative - 2": {
+        "10": "",
+        "54": ""
+      },
+      "Fokus inicijative - 2": {
+        "10": "",
+        "54": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 2": {
+        "10": "",
+        "54": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 2": {
+        "10": "",
+        "54": ""
+      },
+      "Naziv zagovaračke inicijative - 3": {
+        "10": "",
+        "54": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 3": {
+        "10": "",
+        "54": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 3": {
+        "10": "",
+        "54": ""
+      },
+      "Trenutni status inicijative - 3": {
+        "10": "",
+        "54": ""
+      },
+      "Fokus inicijative - 3": {
+        "10": "",
+        "54": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 3": {
+        "10": "",
+        "54": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 3": {
+        "10": "",
+        "54": ""
+      },
+      "Naziv zagovaračke inicijative - 4": {
+        "10": "",
+        "54": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 4": {
+        "10": "",
+        "54": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 4": {
+        "10": "",
+        "54": ""
+      },
+      "Trenutni status inicijative - 4": {
+        "10": "",
+        "54": ""
+      },
+      "Fokus inicijative - 4": {
+        "10": "",
+        "54": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 4": {
+        "10": "",
+        "54": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 4": {
+        "10": "",
+        "54": ""
+      },
+      "Naziv zagovaračke inicijative - 5": {
+        "10": "",
+        "54": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 5": {
+        "10": "",
+        "54": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 5": {
+        "10": "",
+        "54": ""
+      },
+      "Trenutni status inicijative - 5": {
+        "10": "",
+        "54": ""
+      },
+      "Fokus inicijative - 5": {
+        "10": "",
+        "54": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 5": {
+        "10": "",
+        "54": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 5": {
+        "10": "",
+        "54": ""
+      }
+    },
+    "Udruženje građana \"Pridruži se\"": {
+      "Okrug": {
+        "11": "Pomoravski okrug\n",
+        "55": "Pomoravski okrug\n"
+      },
+      "Period": {
+        "11": "I kvartal",
+        "55": "II kvartal"
+      },
+      "Započeli sa sprovođenjem neke zagovaračke inicijative u izveštajnom periodu?": {
+        "11": "Ne",
+        "55": "Da"
+      },
+      "Koliko ste ukupno zagovaračkih inicijativa sprovodili u izveštajnom periodu?": {
+        "11": "",
+        "55": "4\n"
+      },
+      "Naziv zagovaračke inicijative - 1": {
+        "11": "",
+        "55": "Transparentno za životnu sredinu - zagovaranje uspostavljanja lokalnog registra zagađivača\n"
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 1": {
+        "11": "",
+        "55": "Lokalnim donosiocima odluka"
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 1": {
+        "11": "",
+        "55": "Opštinska uprava opštine Paraćin\n"
+      },
+      "Trenutni status inicijative - 1": {
+        "11": "",
+        "55": "Pokrenuta (javno objavljeno da se počinje sa zagovaranjem)"
+      },
+      "Fokus inicijative - 1": {
+        "11": "",
+        "55": "Zaštita životne sredine"
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 1": {
+        "11": "",
+        "55": "Ne"
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 1": {
+        "11": "",
+        "55": ""
+      },
+      "Naziv zagovaračke inicijative - 2": {
+        "11": "",
+        "55": "šta je jače - kamen ili zakon, usvajanje politika koje dovode do veće transparentnosti i poštovanja propisa u rudarenju\n"
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 2": {
+        "11": "",
+        "55": "Lokalnim donosiocima odluka"
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 2": {
+        "11": "",
+        "55": "Opština Paraćin\n"
+      },
+      "Trenutni status inicijative - 2": {
+        "11": "",
+        "55": "Pokrenuta (javno objavljeno da se počinje sa zagovaranjem)"
+      },
+      "Fokus inicijative - 2": {
+        "11": "",
+        "55": "Zaštita životne sredine"
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 2": {
+        "11": "",
+        "55": "Ne"
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 2": {
+        "11": "",
+        "55": ""
+      },
+      "Naziv zagovaračke inicijative - 3": {
+        "11": "",
+        "55": "Odgovorno danas održivo sutra - usajanje lokanog plana upravljanja otpadom\n"
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 3": {
+        "11": "",
+        "55": "Lokalnim donosiocima odluka"
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 3": {
+        "11": "",
+        "55": "Opština Paraćin\n"
+      },
+      "Trenutni status inicijative - 3": {
+        "11": "",
+        "55": "Pokrenuta (javno objavljeno da se počinje sa zagovaranjem)"
+      },
+      "Fokus inicijative - 3": {
+        "11": "",
+        "55": "Zaštita životne sredine"
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 3": {
+        "11": "",
+        "55": "Ne"
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 3": {
+        "11": "",
+        "55": ""
+      },
+      "Naziv zagovaračke inicijative - 4": {
+        "11": "",
+        "55": "Zaštita slatkovodnih ekosistema u dolini Velike Morave\n"
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 4": {
+        "11": "",
+        "55": "Lokalnim donosiocima odluka"
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 4": {
+        "11": "",
+        "55": "Opština Paraćin\n"
+      },
+      "Trenutni status inicijative - 4": {
+        "11": "",
+        "55": "Pokrenuta (javno objavljeno da se počinje sa zagovaranjem)"
+      },
+      "Fokus inicijative - 4": {
+        "11": "",
+        "55": "Zaštita životne sredine"
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 4": {
+        "11": "",
+        "55": "Ne"
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 4": {
+        "11": "",
+        "55": ""
+      },
+      "Naziv zagovaračke inicijative - 5": {
+        "11": "",
+        "55": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 5": {
+        "11": "",
+        "55": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 5": {
+        "11": "",
+        "55": ""
+      },
+      "Trenutni status inicijative - 5": {
+        "11": "",
+        "55": ""
+      },
+      "Fokus inicijative - 5": {
+        "11": "",
+        "55": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 5": {
+        "11": "",
+        "55": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 5": {
+        "11": "",
+        "55": ""
+      }
+    },
+    "Slavko Ćuruvija fondacija": {
+      "Okrug": {
+        "12": "Grad Beograd\n",
+        "48": "Grad Beograd\n"
+      },
+      "Period": {
+        "12": "I kvartal",
+        "48": "II kvartal"
+      },
+      "Započeli sa sprovođenjem neke zagovaračke inicijative u izveštajnom periodu?": {
+        "12": "Ne",
+        "48": "Ne"
+      },
+      "Koliko ste ukupno zagovaračkih inicijativa sprovodili u izveštajnom periodu?": {
+        "12": "",
+        "48": ""
+      },
+      "Naziv zagovaračke inicijative - 1": {
+        "12": "",
+        "48": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 1": {
+        "12": "",
+        "48": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 1": {
+        "12": "",
+        "48": ""
+      },
+      "Trenutni status inicijative - 1": {
+        "12": "",
+        "48": ""
+      },
+      "Fokus inicijative - 1": {
+        "12": "",
+        "48": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 1": {
+        "12": "",
+        "48": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 1": {
+        "12": "",
+        "48": ""
+      },
+      "Naziv zagovaračke inicijative - 2": {
+        "12": "",
+        "48": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 2": {
+        "12": "",
+        "48": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 2": {
+        "12": "",
+        "48": ""
+      },
+      "Trenutni status inicijative - 2": {
+        "12": "",
+        "48": ""
+      },
+      "Fokus inicijative - 2": {
+        "12": "",
+        "48": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 2": {
+        "12": "",
+        "48": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 2": {
+        "12": "",
+        "48": ""
+      },
+      "Naziv zagovaračke inicijative - 3": {
+        "12": "",
+        "48": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 3": {
+        "12": "",
+        "48": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 3": {
+        "12": "",
+        "48": ""
+      },
+      "Trenutni status inicijative - 3": {
+        "12": "",
+        "48": ""
+      },
+      "Fokus inicijative - 3": {
+        "12": "",
+        "48": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 3": {
+        "12": "",
+        "48": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 3": {
+        "12": "",
+        "48": ""
+      },
+      "Naziv zagovaračke inicijative - 4": {
+        "12": "",
+        "48": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 4": {
+        "12": "",
+        "48": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 4": {
+        "12": "",
+        "48": ""
+      },
+      "Trenutni status inicijative - 4": {
+        "12": "",
+        "48": ""
+      },
+      "Fokus inicijative - 4": {
+        "12": "",
+        "48": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 4": {
+        "12": "",
+        "48": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 4": {
+        "12": "",
+        "48": ""
+      },
+      "Naziv zagovaračke inicijative - 5": {
+        "12": "",
+        "48": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 5": {
+        "12": "",
+        "48": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 5": {
+        "12": "",
+        "48": ""
+      },
+      "Trenutni status inicijative - 5": {
+        "12": "",
+        "48": ""
+      },
+      "Fokus inicijative - 5": {
+        "12": "",
+        "48": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 5": {
+        "12": "",
+        "48": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 5": {
+        "12": "",
+        "48": ""
+      }
+    },
+    "Centar za samostalni život osoba sa invaliditetom Kragujevac": {
+      "Okrug": {
+        "13": "šumadijski okrug\n",
+        "34": "šumadijski okrug\n"
+      },
+      "Period": {
+        "13": "I kvartal",
+        "34": "II kvartal"
+      },
+      "Započeli sa sprovođenjem neke zagovaračke inicijative u izveštajnom periodu?": {
+        "13": "Ne",
+        "34": "Ne"
+      },
+      "Koliko ste ukupno zagovaračkih inicijativa sprovodili u izveštajnom periodu?": {
+        "13": "",
+        "34": ""
+      },
+      "Naziv zagovaračke inicijative - 1": {
+        "13": "",
+        "34": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 1": {
+        "13": "",
+        "34": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 1": {
+        "13": "",
+        "34": ""
+      },
+      "Trenutni status inicijative - 1": {
+        "13": "",
+        "34": ""
+      },
+      "Fokus inicijative - 1": {
+        "13": "",
+        "34": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 1": {
+        "13": "",
+        "34": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 1": {
+        "13": "",
+        "34": ""
+      },
+      "Naziv zagovaračke inicijative - 2": {
+        "13": "",
+        "34": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 2": {
+        "13": "",
+        "34": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 2": {
+        "13": "",
+        "34": ""
+      },
+      "Trenutni status inicijative - 2": {
+        "13": "",
+        "34": ""
+      },
+      "Fokus inicijative - 2": {
+        "13": "",
+        "34": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 2": {
+        "13": "",
+        "34": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 2": {
+        "13": "",
+        "34": ""
+      },
+      "Naziv zagovaračke inicijative - 3": {
+        "13": "",
+        "34": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 3": {
+        "13": "",
+        "34": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 3": {
+        "13": "",
+        "34": ""
+      },
+      "Trenutni status inicijative - 3": {
+        "13": "",
+        "34": ""
+      },
+      "Fokus inicijative - 3": {
+        "13": "",
+        "34": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 3": {
+        "13": "",
+        "34": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 3": {
+        "13": "",
+        "34": ""
+      },
+      "Naziv zagovaračke inicijative - 4": {
+        "13": "",
+        "34": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 4": {
+        "13": "",
+        "34": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 4": {
+        "13": "",
+        "34": ""
+      },
+      "Trenutni status inicijative - 4": {
+        "13": "",
+        "34": ""
+      },
+      "Fokus inicijative - 4": {
+        "13": "",
+        "34": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 4": {
+        "13": "",
+        "34": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 4": {
+        "13": "",
+        "34": ""
+      },
+      "Naziv zagovaračke inicijative - 5": {
+        "13": "",
+        "34": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 5": {
+        "13": "",
+        "34": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 5": {
+        "13": "",
+        "34": ""
+      },
+      "Trenutni status inicijative - 5": {
+        "13": "",
+        "34": ""
+      },
+      "Fokus inicijative - 5": {
+        "13": "",
+        "34": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 5": {
+        "13": "",
+        "34": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 5": {
+        "13": "",
+        "34": ""
+      }
+    },
+    "Inicijativa za prava osoba sa mentalnim invaliditetom MDRI-S": {
+      "Okrug": {
+        "14": "Grad Beograd\n",
+        "52": "Grad Beograd\n"
+      },
+      "Period": {
+        "14": "I kvartal",
+        "52": "II kvartal"
+      },
+      "Započeli sa sprovođenjem neke zagovaračke inicijative u izveštajnom periodu?": {
+        "14": "Ne",
+        "52": "Ne"
+      },
+      "Koliko ste ukupno zagovaračkih inicijativa sprovodili u izveštajnom periodu?": {
+        "14": "",
+        "52": ""
+      },
+      "Naziv zagovaračke inicijative - 1": {
+        "14": "",
+        "52": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 1": {
+        "14": "",
+        "52": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 1": {
+        "14": "",
+        "52": ""
+      },
+      "Trenutni status inicijative - 1": {
+        "14": "",
+        "52": ""
+      },
+      "Fokus inicijative - 1": {
+        "14": "",
+        "52": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 1": {
+        "14": "",
+        "52": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 1": {
+        "14": "",
+        "52": ""
+      },
+      "Naziv zagovaračke inicijative - 2": {
+        "14": "",
+        "52": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 2": {
+        "14": "",
+        "52": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 2": {
+        "14": "",
+        "52": ""
+      },
+      "Trenutni status inicijative - 2": {
+        "14": "",
+        "52": ""
+      },
+      "Fokus inicijative - 2": {
+        "14": "",
+        "52": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 2": {
+        "14": "",
+        "52": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 2": {
+        "14": "",
+        "52": ""
+      },
+      "Naziv zagovaračke inicijative - 3": {
+        "14": "",
+        "52": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 3": {
+        "14": "",
+        "52": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 3": {
+        "14": "",
+        "52": ""
+      },
+      "Trenutni status inicijative - 3": {
+        "14": "",
+        "52": ""
+      },
+      "Fokus inicijative - 3": {
+        "14": "",
+        "52": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 3": {
+        "14": "",
+        "52": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 3": {
+        "14": "",
+        "52": ""
+      },
+      "Naziv zagovaračke inicijative - 4": {
+        "14": "",
+        "52": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 4": {
+        "14": "",
+        "52": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 4": {
+        "14": "",
+        "52": ""
+      },
+      "Trenutni status inicijative - 4": {
+        "14": "",
+        "52": ""
+      },
+      "Fokus inicijative - 4": {
+        "14": "",
+        "52": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 4": {
+        "14": "",
+        "52": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 4": {
+        "14": "",
+        "52": ""
+      },
+      "Naziv zagovaračke inicijative - 5": {
+        "14": "",
+        "52": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 5": {
+        "14": "",
+        "52": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 5": {
+        "14": "",
+        "52": ""
+      },
+      "Trenutni status inicijative - 5": {
+        "14": "",
+        "52": ""
+      },
+      "Fokus inicijative - 5": {
+        "14": "",
+        "52": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 5": {
+        "14": "",
+        "52": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 5": {
+        "14": "",
+        "52": ""
+      }
+    },
+    "Zenski centar \"MILICA\" (Women's centre \"MILICA\"- breast cancer patient association)": {
+      "Okrug": {
+        "15": "Grad Beograd\n",
+        "40": "Grad Beograd\n"
+      },
+      "Period": {
+        "15": "I kvartal",
+        "40": "II kvartal"
+      },
+      "Započeli sa sprovođenjem neke zagovaračke inicijative u izveštajnom periodu?": {
+        "15": "Ne",
+        "40": "Ne"
+      },
+      "Koliko ste ukupno zagovaračkih inicijativa sprovodili u izveštajnom periodu?": {
+        "15": "",
+        "40": ""
+      },
+      "Naziv zagovaračke inicijative - 1": {
+        "15": "",
+        "40": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 1": {
+        "15": "",
+        "40": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 1": {
+        "15": "",
+        "40": ""
+      },
+      "Trenutni status inicijative - 1": {
+        "15": "",
+        "40": ""
+      },
+      "Fokus inicijative - 1": {
+        "15": "",
+        "40": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 1": {
+        "15": "",
+        "40": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 1": {
+        "15": "",
+        "40": ""
+      },
+      "Naziv zagovaračke inicijative - 2": {
+        "15": "",
+        "40": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 2": {
+        "15": "",
+        "40": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 2": {
+        "15": "",
+        "40": ""
+      },
+      "Trenutni status inicijative - 2": {
+        "15": "",
+        "40": ""
+      },
+      "Fokus inicijative - 2": {
+        "15": "",
+        "40": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 2": {
+        "15": "",
+        "40": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 2": {
+        "15": "",
+        "40": ""
+      },
+      "Naziv zagovaračke inicijative - 3": {
+        "15": "",
+        "40": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 3": {
+        "15": "",
+        "40": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 3": {
+        "15": "",
+        "40": ""
+      },
+      "Trenutni status inicijative - 3": {
+        "15": "",
+        "40": ""
+      },
+      "Fokus inicijative - 3": {
+        "15": "",
+        "40": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 3": {
+        "15": "",
+        "40": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 3": {
+        "15": "",
+        "40": ""
+      },
+      "Naziv zagovaračke inicijative - 4": {
+        "15": "",
+        "40": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 4": {
+        "15": "",
+        "40": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 4": {
+        "15": "",
+        "40": ""
+      },
+      "Trenutni status inicijative - 4": {
+        "15": "",
+        "40": ""
+      },
+      "Fokus inicijative - 4": {
+        "15": "",
+        "40": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 4": {
+        "15": "",
+        "40": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 4": {
+        "15": "",
+        "40": ""
+      },
+      "Naziv zagovaračke inicijative - 5": {
+        "15": "",
+        "40": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 5": {
+        "15": "",
+        "40": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 5": {
+        "15": "",
+        "40": ""
+      },
+      "Trenutni status inicijative - 5": {
+        "15": "",
+        "40": ""
+      },
+      "Fokus inicijative - 5": {
+        "15": "",
+        "40": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 5": {
+        "15": "",
+        "40": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 5": {
+        "15": "",
+        "40": ""
+      }
+    },
+    "Prijatelji dece Srbije": {
+      "Okrug": {
+        "16": "Grad Beograd\n",
+        "43": "Grad Beograd\n"
+      },
+      "Period": {
+        "16": "I kvartal",
+        "43": "II kvartal"
+      },
+      "Započeli sa sprovođenjem neke zagovaračke inicijative u izveštajnom periodu?": {
+        "16": "Da",
+        "43": "Da"
+      },
+      "Koliko ste ukupno zagovaračkih inicijativa sprovodili u izveštajnom periodu?": {
+        "16": "1\n",
+        "43": "1\n"
+      },
+      "Naziv zagovaračke inicijative - 1": {
+        "16": "Monitoring zloupotrebe dece u političke svrhe u cilju sprečavanja daljeg kršenja prava deteta",
+        "43": "Deca nisu dekor - Sprečimo poliličku zloupotrebu dece"
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 1": {
+        "16": "Nacionalnim donosiocima odluka",
+        "43": "Nacionalnim donosiocima odluka"
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 1": {
+        "16": "Svim političkim partijama na nacionalnom nivou delovanja\n",
+        "43": "Svim političkim partijama na nacionalnom nivou delovanja\n"
+      },
+      "Trenutni status inicijative - 1": {
+        "16": "Inicijativa medijski prezentovana (društvene mreže i/ili tradicionalni mediji)",
+        "43": "Inicijativa medijski prezentovana (društvene mreže i/ili tradicionalni mediji)"
+      },
+      "Fokus inicijative - 1": {
+        "16": "Ljudska i građanska prava",
+        "43": "Drugo"
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 1": {
+        "16": "Ne",
+        "43": "Ne"
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 1": {
+        "16": "",
+        "43": ""
+      },
+      "Naziv zagovaračke inicijative - 2": {
+        "16": "",
+        "43": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 2": {
+        "16": "",
+        "43": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 2": {
+        "16": "",
+        "43": ""
+      },
+      "Trenutni status inicijative - 2": {
+        "16": "",
+        "43": ""
+      },
+      "Fokus inicijative - 2": {
+        "16": "",
+        "43": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 2": {
+        "16": "",
+        "43": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 2": {
+        "16": "",
+        "43": ""
+      },
+      "Naziv zagovaračke inicijative - 3": {
+        "16": "",
+        "43": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 3": {
+        "16": "",
+        "43": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 3": {
+        "16": "",
+        "43": ""
+      },
+      "Trenutni status inicijative - 3": {
+        "16": "",
+        "43": ""
+      },
+      "Fokus inicijative - 3": {
+        "16": "",
+        "43": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 3": {
+        "16": "",
+        "43": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 3": {
+        "16": "",
+        "43": ""
+      },
+      "Naziv zagovaračke inicijative - 4": {
+        "16": "",
+        "43": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 4": {
+        "16": "",
+        "43": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 4": {
+        "16": "",
+        "43": ""
+      },
+      "Trenutni status inicijative - 4": {
+        "16": "",
+        "43": ""
+      },
+      "Fokus inicijative - 4": {
+        "16": "",
+        "43": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 4": {
+        "16": "",
+        "43": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 4": {
+        "16": "",
+        "43": ""
+      },
+      "Naziv zagovaračke inicijative - 5": {
+        "16": "",
+        "43": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 5": {
+        "16": "",
+        "43": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 5": {
+        "16": "",
+        "43": ""
+      },
+      "Trenutni status inicijative - 5": {
+        "16": "",
+        "43": ""
+      },
+      "Fokus inicijative - 5": {
+        "16": "",
+        "43": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 5": {
+        "16": "",
+        "43": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 5": {
+        "16": "",
+        "43": ""
+      },
+      "Drugo - Fokus inicijative - 1": {
+        "43": "Prava deteta\n"
+      }
+    },
+    "Hrabriša": {
+      "Okrug": {
+        "17": "Južno-bački okrug\n",
+        "41": "Južno-bački okrug\n"
+      },
+      "Period": {
+        "17": "I kvartal",
+        "41": "II kvartal"
+      },
+      "Započeli sa sprovođenjem neke zagovaračke inicijative u izveštajnom periodu?": {
+        "17": "Ne",
+        "41": "Ne"
+      },
+      "Koliko ste ukupno zagovaračkih inicijativa sprovodili u izveštajnom periodu?": {
+        "17": "",
+        "41": ""
+      },
+      "Naziv zagovaračke inicijative - 1": {
+        "17": "",
+        "41": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 1": {
+        "17": "",
+        "41": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 1": {
+        "17": "",
+        "41": ""
+      },
+      "Trenutni status inicijative - 1": {
+        "17": "",
+        "41": ""
+      },
+      "Fokus inicijative - 1": {
+        "17": "",
+        "41": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 1": {
+        "17": "",
+        "41": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 1": {
+        "17": "",
+        "41": ""
+      },
+      "Naziv zagovaračke inicijative - 2": {
+        "17": "",
+        "41": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 2": {
+        "17": "",
+        "41": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 2": {
+        "17": "",
+        "41": ""
+      },
+      "Trenutni status inicijative - 2": {
+        "17": "",
+        "41": ""
+      },
+      "Fokus inicijative - 2": {
+        "17": "",
+        "41": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 2": {
+        "17": "",
+        "41": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 2": {
+        "17": "",
+        "41": ""
+      },
+      "Naziv zagovaračke inicijative - 3": {
+        "17": "",
+        "41": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 3": {
+        "17": "",
+        "41": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 3": {
+        "17": "",
+        "41": ""
+      },
+      "Trenutni status inicijative - 3": {
+        "17": "",
+        "41": ""
+      },
+      "Fokus inicijative - 3": {
+        "17": "",
+        "41": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 3": {
+        "17": "",
+        "41": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 3": {
+        "17": "",
+        "41": ""
+      },
+      "Naziv zagovaračke inicijative - 4": {
+        "17": "",
+        "41": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 4": {
+        "17": "",
+        "41": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 4": {
+        "17": "",
+        "41": ""
+      },
+      "Trenutni status inicijative - 4": {
+        "17": "",
+        "41": ""
+      },
+      "Fokus inicijative - 4": {
+        "17": "",
+        "41": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 4": {
+        "17": "",
+        "41": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 4": {
+        "17": "",
+        "41": ""
+      },
+      "Naziv zagovaračke inicijative - 5": {
+        "17": "",
+        "41": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 5": {
+        "17": "",
+        "41": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 5": {
+        "17": "",
+        "41": ""
+      },
+      "Trenutni status inicijative - 5": {
+        "17": "",
+        "41": ""
+      },
+      "Fokus inicijative - 5": {
+        "17": "",
+        "41": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 5": {
+        "17": "",
+        "41": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 5": {
+        "17": "",
+        "41": ""
+      }
+    },
+    "Udruženje žena Peščanik": {
+      "Okrug": {
+        "18": "Rasinski okrug\n",
+        "44": "Rasinski okrug\n"
+      },
+      "Period": {
+        "18": "I kvartal",
+        "44": "II kvartal"
+      },
+      "Započeli sa sprovođenjem neke zagovaračke inicijative u izveštajnom periodu?": {
+        "18": "Ne",
+        "44": "Ne"
+      },
+      "Koliko ste ukupno zagovaračkih inicijativa sprovodili u izveštajnom periodu?": {
+        "18": "",
+        "44": ""
+      },
+      "Naziv zagovaračke inicijative - 1": {
+        "18": "",
+        "44": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 1": {
+        "18": "",
+        "44": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 1": {
+        "18": "",
+        "44": ""
+      },
+      "Trenutni status inicijative - 1": {
+        "18": "",
+        "44": ""
+      },
+      "Fokus inicijative - 1": {
+        "18": "",
+        "44": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 1": {
+        "18": "",
+        "44": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 1": {
+        "18": "",
+        "44": ""
+      },
+      "Naziv zagovaračke inicijative - 2": {
+        "18": "",
+        "44": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 2": {
+        "18": "",
+        "44": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 2": {
+        "18": "",
+        "44": ""
+      },
+      "Trenutni status inicijative - 2": {
+        "18": "",
+        "44": ""
+      },
+      "Fokus inicijative - 2": {
+        "18": "",
+        "44": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 2": {
+        "18": "",
+        "44": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 2": {
+        "18": "",
+        "44": ""
+      },
+      "Naziv zagovaračke inicijative - 3": {
+        "18": "",
+        "44": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 3": {
+        "18": "",
+        "44": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 3": {
+        "18": "",
+        "44": ""
+      },
+      "Trenutni status inicijative - 3": {
+        "18": "",
+        "44": ""
+      },
+      "Fokus inicijative - 3": {
+        "18": "",
+        "44": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 3": {
+        "18": "",
+        "44": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 3": {
+        "18": "",
+        "44": ""
+      },
+      "Naziv zagovaračke inicijative - 4": {
+        "18": "",
+        "44": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 4": {
+        "18": "",
+        "44": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 4": {
+        "18": "",
+        "44": ""
+      },
+      "Trenutni status inicijative - 4": {
+        "18": "",
+        "44": ""
+      },
+      "Fokus inicijative - 4": {
+        "18": "",
+        "44": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 4": {
+        "18": "",
+        "44": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 4": {
+        "18": "",
+        "44": ""
+      },
+      "Naziv zagovaračke inicijative - 5": {
+        "18": "",
+        "44": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 5": {
+        "18": "",
+        "44": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 5": {
+        "18": "",
+        "44": ""
+      },
+      "Trenutni status inicijative - 5": {
+        "18": "",
+        "44": ""
+      },
+      "Fokus inicijative - 5": {
+        "18": "",
+        "44": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 5": {
+        "18": "",
+        "44": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 5": {
+        "18": "",
+        "44": ""
+      }
+    },
+    "Udruženje Romkinja Osvit": {
+      "Okrug": {
+        "19": "Nišavski okrug\n",
+        "49": "Nišavski okrug\n"
+      },
+      "Period": {
+        "19": "I kvartal",
+        "49": "II kvartal"
+      },
+      "Započeli sa sprovođenjem neke zagovaračke inicijative u izveštajnom periodu?": {
+        "19": "Ne",
+        "49": "Ne"
+      },
+      "Koliko ste ukupno zagovaračkih inicijativa sprovodili u izveštajnom periodu?": {
+        "19": "",
+        "49": ""
+      },
+      "Naziv zagovaračke inicijative - 1": {
+        "19": "",
+        "49": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 1": {
+        "19": "",
+        "49": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 1": {
+        "19": "",
+        "49": ""
+      },
+      "Trenutni status inicijative - 1": {
+        "19": "",
+        "49": ""
+      },
+      "Fokus inicijative - 1": {
+        "19": "",
+        "49": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 1": {
+        "19": "",
+        "49": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 1": {
+        "19": "",
+        "49": ""
+      },
+      "Naziv zagovaračke inicijative - 2": {
+        "19": "",
+        "49": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 2": {
+        "19": "",
+        "49": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 2": {
+        "19": "",
+        "49": ""
+      },
+      "Trenutni status inicijative - 2": {
+        "19": "",
+        "49": ""
+      },
+      "Fokus inicijative - 2": {
+        "19": "",
+        "49": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 2": {
+        "19": "",
+        "49": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 2": {
+        "19": "",
+        "49": ""
+      },
+      "Naziv zagovaračke inicijative - 3": {
+        "19": "",
+        "49": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 3": {
+        "19": "",
+        "49": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 3": {
+        "19": "",
+        "49": ""
+      },
+      "Trenutni status inicijative - 3": {
+        "19": "",
+        "49": ""
+      },
+      "Fokus inicijative - 3": {
+        "19": "",
+        "49": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 3": {
+        "19": "",
+        "49": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 3": {
+        "19": "",
+        "49": ""
+      },
+      "Naziv zagovaračke inicijative - 4": {
+        "19": "",
+        "49": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 4": {
+        "19": "",
+        "49": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 4": {
+        "19": "",
+        "49": ""
+      },
+      "Trenutni status inicijative - 4": {
+        "19": "",
+        "49": ""
+      },
+      "Fokus inicijative - 4": {
+        "19": "",
+        "49": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 4": {
+        "19": "",
+        "49": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 4": {
+        "19": "",
+        "49": ""
+      },
+      "Naziv zagovaračke inicijative - 5": {
+        "19": "",
+        "49": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 5": {
+        "19": "",
+        "49": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 5": {
+        "19": "",
+        "49": ""
+      },
+      "Trenutni status inicijative - 5": {
+        "19": "",
+        "49": ""
+      },
+      "Fokus inicijative - 5": {
+        "19": "",
+        "49": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 5": {
+        "19": "",
+        "49": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 5": {
+        "19": "",
+        "49": ""
+      }
+    },
+    "Udruženje Fenomena": {
+      "Okrug": {
+        "20": "Raški okrug\n",
+        "46": "Raški okrug\n"
+      },
+      "Period": {
+        "20": "I kvartal",
+        "46": "II kvartal"
+      },
+      "Započeli sa sprovođenjem neke zagovaračke inicijative u izveštajnom periodu?": {
+        "20": "Ne",
+        "46": "Da"
+      },
+      "Koliko ste ukupno zagovaračkih inicijativa sprovodili u izveštajnom periodu?": {
+        "20": "",
+        "46": "1\n"
+      },
+      "Naziv zagovaračke inicijative - 1": {
+        "20": "",
+        "46": "Zagovaranje za unapređenje sistema besplatne pravne pomoći u Republici Srbiji\n"
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 1": {
+        "20": "",
+        "46": "Nacionalnim donosiocima odluka"
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 1": {
+        "20": "",
+        "46": "Ministarstvo pravde\n"
+      },
+      "Trenutni status inicijative - 1": {
+        "20": "",
+        "46": "Inicijativa medijski prezentovana (društvene mreže i/ili tradicionalni mediji)"
+      },
+      "Fokus inicijative - 1": {
+        "20": "",
+        "46": "Drugo"
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 1": {
+        "20": "",
+        "46": "Da"
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 1": {
+        "20": "",
+        "46": "Drugo"
+      },
+      "Naziv zagovaračke inicijative - 2": {
+        "20": "",
+        "46": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 2": {
+        "20": "",
+        "46": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 2": {
+        "20": "",
+        "46": ""
+      },
+      "Trenutni status inicijative - 2": {
+        "20": "",
+        "46": ""
+      },
+      "Fokus inicijative - 2": {
+        "20": "",
+        "46": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 2": {
+        "20": "",
+        "46": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 2": {
+        "20": "",
+        "46": ""
+      },
+      "Naziv zagovaračke inicijative - 3": {
+        "20": "",
+        "46": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 3": {
+        "20": "",
+        "46": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 3": {
+        "20": "",
+        "46": ""
+      },
+      "Trenutni status inicijative - 3": {
+        "20": "",
+        "46": ""
+      },
+      "Fokus inicijative - 3": {
+        "20": "",
+        "46": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 3": {
+        "20": "",
+        "46": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 3": {
+        "20": "",
+        "46": ""
+      },
+      "Naziv zagovaračke inicijative - 4": {
+        "20": "",
+        "46": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 4": {
+        "20": "",
+        "46": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 4": {
+        "20": "",
+        "46": ""
+      },
+      "Trenutni status inicijative - 4": {
+        "20": "",
+        "46": ""
+      },
+      "Fokus inicijative - 4": {
+        "20": "",
+        "46": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 4": {
+        "20": "",
+        "46": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 4": {
+        "20": "",
+        "46": ""
+      },
+      "Naziv zagovaračke inicijative - 5": {
+        "20": "",
+        "46": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 5": {
+        "20": "",
+        "46": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 5": {
+        "20": "",
+        "46": ""
+      },
+      "Trenutni status inicijative - 5": {
+        "20": "",
+        "46": ""
+      },
+      "Fokus inicijative - 5": {
+        "20": "",
+        "46": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 5": {
+        "20": "",
+        "46": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 5": {
+        "20": "",
+        "46": ""
+      },
+      "Drugo - Fokus inicijative - 1": {
+        "46": "Unapređenje sitema besplatne pravne pomoći za osobe koje su preživele nasilje u porodici i rodno zasnovano nasilje\n"
+      },
+      "Drugo - 1": {
+        "46": "Ministarstvo pravde odgovorilo je primilo naš predlog i da sve ostale materijale šaljemo na određenu adresu Ministarstva.\n"
+      }
+    },
+    "Udruženje Žene na prekretnici": {
+      "Okrug": {
+        "21": "Grad Beograd\n",
+        "51": "Grad Beograd\n"
+      },
+      "Period": {
+        "21": "I kvartal",
+        "51": "II kvartal"
+      },
+      "Započeli sa sprovođenjem neke zagovaračke inicijative u izveštajnom periodu?": {
+        "21": "Ne",
+        "51": "Da"
+      },
+      "Koliko ste ukupno zagovaračkih inicijativa sprovodili u izveštajnom periodu?": {
+        "21": "",
+        "51": "1\n"
+      },
+      "Naziv zagovaračke inicijative - 1": {
+        "21": "",
+        "51": "Pismo Ustavnom sudu u kome se traži poništenje rešenje u vezi sa obustavom primene Zakona o rodnoj ravnopravnosti u celin.\n"
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 1": {
+        "21": "",
+        "51": "Nacionalnim donosiocima odluka"
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 1": {
+        "21": "",
+        "51": "Ustavni sud\n"
+      },
+      "Trenutni status inicijative - 1": {
+        "21": "",
+        "51": "Pokrenuta (javno objavljeno da se počinje sa zagovaranjem)"
+      },
+      "Fokus inicijative - 1": {
+        "21": "",
+        "51": "Rodna ravnopravnost"
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 1": {
+        "21": "",
+        "51": "Ne"
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 1": {
+        "21": "",
+        "51": ""
+      },
+      "Naziv zagovaračke inicijative - 2": {
+        "21": "",
+        "51": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 2": {
+        "21": "",
+        "51": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 2": {
+        "21": "",
+        "51": ""
+      },
+      "Trenutni status inicijative - 2": {
+        "21": "",
+        "51": ""
+      },
+      "Fokus inicijative - 2": {
+        "21": "",
+        "51": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 2": {
+        "21": "",
+        "51": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 2": {
+        "21": "",
+        "51": ""
+      },
+      "Naziv zagovaračke inicijative - 3": {
+        "21": "",
+        "51": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 3": {
+        "21": "",
+        "51": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 3": {
+        "21": "",
+        "51": ""
+      },
+      "Trenutni status inicijative - 3": {
+        "21": "",
+        "51": ""
+      },
+      "Fokus inicijative - 3": {
+        "21": "",
+        "51": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 3": {
+        "21": "",
+        "51": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 3": {
+        "21": "",
+        "51": ""
+      },
+      "Naziv zagovaračke inicijative - 4": {
+        "21": "",
+        "51": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 4": {
+        "21": "",
+        "51": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 4": {
+        "21": "",
+        "51": ""
+      },
+      "Trenutni status inicijative - 4": {
+        "21": "",
+        "51": ""
+      },
+      "Fokus inicijative - 4": {
+        "21": "",
+        "51": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 4": {
+        "21": "",
+        "51": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 4": {
+        "21": "",
+        "51": ""
+      },
+      "Naziv zagovaračke inicijative - 5": {
+        "21": "",
+        "51": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 5": {
+        "21": "",
+        "51": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 5": {
+        "21": "",
+        "51": ""
+      },
+      "Trenutni status inicijative - 5": {
+        "21": "",
+        "51": ""
+      },
+      "Fokus inicijative - 5": {
+        "21": "",
+        "51": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 5": {
+        "21": "",
+        "51": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 5": {
+        "21": "",
+        "51": ""
+      }
+    },
+    "Udruženje Omladinski centar CK13": {
+      "Okrug": {
+        "22": "Južno-bački okrug\n",
+        "47": "Južno-bački okrug\n"
+      },
+      "Period": {
+        "22": "I kvartal",
+        "47": "II kvartal"
+      },
+      "Započeli sa sprovođenjem neke zagovaračke inicijative u izveštajnom periodu?": {
+        "22": "Ne",
+        "47": "Ne"
+      },
+      "Koliko ste ukupno zagovaračkih inicijativa sprovodili u izveštajnom periodu?": {
+        "22": "",
+        "47": ""
+      },
+      "Naziv zagovaračke inicijative - 1": {
+        "22": "",
+        "47": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 1": {
+        "22": "",
+        "47": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 1": {
+        "22": "",
+        "47": ""
+      },
+      "Trenutni status inicijative - 1": {
+        "22": "",
+        "47": ""
+      },
+      "Fokus inicijative - 1": {
+        "22": "",
+        "47": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 1": {
+        "22": "",
+        "47": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 1": {
+        "22": "",
+        "47": ""
+      },
+      "Naziv zagovaračke inicijative - 2": {
+        "22": "",
+        "47": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 2": {
+        "22": "",
+        "47": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 2": {
+        "22": "",
+        "47": ""
+      },
+      "Trenutni status inicijative - 2": {
+        "22": "",
+        "47": ""
+      },
+      "Fokus inicijative - 2": {
+        "22": "",
+        "47": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 2": {
+        "22": "",
+        "47": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 2": {
+        "22": "",
+        "47": ""
+      },
+      "Naziv zagovaračke inicijative - 3": {
+        "22": "",
+        "47": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 3": {
+        "22": "",
+        "47": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 3": {
+        "22": "",
+        "47": ""
+      },
+      "Trenutni status inicijative - 3": {
+        "22": "",
+        "47": ""
+      },
+      "Fokus inicijative - 3": {
+        "22": "",
+        "47": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 3": {
+        "22": "",
+        "47": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 3": {
+        "22": "",
+        "47": ""
+      },
+      "Naziv zagovaračke inicijative - 4": {
+        "22": "",
+        "47": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 4": {
+        "22": "",
+        "47": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 4": {
+        "22": "",
+        "47": ""
+      },
+      "Trenutni status inicijative - 4": {
+        "22": "",
+        "47": ""
+      },
+      "Fokus inicijative - 4": {
+        "22": "",
+        "47": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 4": {
+        "22": "",
+        "47": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 4": {
+        "22": "",
+        "47": ""
+      },
+      "Naziv zagovaračke inicijative - 5": {
+        "22": "",
+        "47": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 5": {
+        "22": "",
+        "47": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 5": {
+        "22": "",
+        "47": ""
+      },
+      "Trenutni status inicijative - 5": {
+        "22": "",
+        "47": ""
+      },
+      "Fokus inicijative - 5": {
+        "22": "",
+        "47": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 5": {
+        "22": "",
+        "47": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 5": {
+        "22": "",
+        "47": ""
+      }
+    },
+    "Forum civilne akcije - FORCA": {
+      "Okrug": {
+        "23": "Zlatiborski okrug\n",
+        "35": "Zlatiborski okrug\n"
+      },
+      "Period": {
+        "23": "I kvartal",
+        "35": "II kvartal"
+      },
+      "Započeli sa sprovođenjem neke zagovaračke inicijative u izveštajnom periodu?": {
+        "23": "Ne",
+        "35": "Da"
+      },
+      "Koliko ste ukupno zagovaračkih inicijativa sprovodili u izveštajnom periodu?": {
+        "23": "",
+        "35": "1\n"
+      },
+      "Naziv zagovaračke inicijative - 1": {
+        "23": "",
+        "35": "Zagovaranje za sporu zonu- regulacija saobraćaja u Požegi, uvođenje sporih zona saobraćaja pored škola i izgradnju biciklistick\n"
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 1": {
+        "23": "",
+        "35": "Lokalnim donosiocima odluka"
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 1": {
+        "23": "",
+        "35": "Opština Požega\n"
+      },
+      "Trenutni status inicijative - 1": {
+        "23": "",
+        "35": "Pokrenuta (javno objavljeno da se počinje sa zagovaranjem)"
+      },
+      "Fokus inicijative - 1": {
+        "23": "",
+        "35": "Dobro upravljanje"
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 1": {
+        "23": "",
+        "35": "Ne"
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 1": {
+        "23": "",
+        "35": ""
+      },
+      "Naziv zagovaračke inicijative - 2": {
+        "23": "",
+        "35": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 2": {
+        "23": "",
+        "35": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 2": {
+        "23": "",
+        "35": ""
+      },
+      "Trenutni status inicijative - 2": {
+        "23": "",
+        "35": ""
+      },
+      "Fokus inicijative - 2": {
+        "23": "",
+        "35": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 2": {
+        "23": "",
+        "35": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 2": {
+        "23": "",
+        "35": ""
+      },
+      "Naziv zagovaračke inicijative - 3": {
+        "23": "",
+        "35": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 3": {
+        "23": "",
+        "35": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 3": {
+        "23": "",
+        "35": ""
+      },
+      "Trenutni status inicijative - 3": {
+        "23": "",
+        "35": ""
+      },
+      "Fokus inicijative - 3": {
+        "23": "",
+        "35": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 3": {
+        "23": "",
+        "35": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 3": {
+        "23": "",
+        "35": ""
+      },
+      "Naziv zagovaračke inicijative - 4": {
+        "23": "",
+        "35": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 4": {
+        "23": "",
+        "35": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 4": {
+        "23": "",
+        "35": ""
+      },
+      "Trenutni status inicijative - 4": {
+        "23": "",
+        "35": ""
+      },
+      "Fokus inicijative - 4": {
+        "23": "",
+        "35": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 4": {
+        "23": "",
+        "35": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 4": {
+        "23": "",
+        "35": ""
+      },
+      "Naziv zagovaračke inicijative - 5": {
+        "23": "",
+        "35": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 5": {
+        "23": "",
+        "35": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 5": {
+        "23": "",
+        "35": ""
+      },
+      "Trenutni status inicijative - 5": {
+        "23": "",
+        "35": ""
+      },
+      "Fokus inicijative - 5": {
+        "23": "",
+        "35": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 5": {
+        "23": "",
+        "35": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 5": {
+        "23": "",
+        "35": ""
+      }
+    },
+    "UDRUŽENJE GRA\u0110ANA TERNIPE": {
+      "Okrug": {
+        "24": "Pirotski okrug\n",
+        "36": "Pirotski okrug\n"
+      },
+      "Period": {
+        "24": "I kvartal",
+        "36": "II kvartal"
+      },
+      "Započeli sa sprovođenjem neke zagovaračke inicijative u izveštajnom periodu?": {
+        "24": "Da",
+        "36": "Ne"
+      },
+      "Koliko ste ukupno zagovaračkih inicijativa sprovodili u izveštajnom periodu?": {
+        "24": "1\n",
+        "36": ""
+      },
+      "Naziv zagovaračke inicijative - 1": {
+        "24": "Participacija Roma i Romkinja u procesu izrade Lokalnog akcionog plana za Rome i Romkinje za period 2025-2027\n",
+        "36": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 1": {
+        "24": "Lokalnim donosiocima odluka",
+        "36": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 1": {
+        "24": "Odeljenje za vanprivredne delatnosti, GU Pirot\n",
+        "36": ""
+      },
+      "Trenutni status inicijative - 1": {
+        "24": "Baza podrške upoznata sa inicijativom",
+        "36": ""
+      },
+      "Fokus inicijative - 1": {
+        "24": "Socijalna inkluzija i ranjive grupe",
+        "36": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 1": {
+        "24": "Ne",
+        "36": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 1": {
+        "24": "",
+        "36": ""
+      },
+      "Naziv zagovaračke inicijative - 2": {
+        "24": "",
+        "36": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 2": {
+        "24": "",
+        "36": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 2": {
+        "24": "",
+        "36": ""
+      },
+      "Trenutni status inicijative - 2": {
+        "24": "",
+        "36": ""
+      },
+      "Fokus inicijative - 2": {
+        "24": "",
+        "36": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 2": {
+        "24": "",
+        "36": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 2": {
+        "24": "",
+        "36": ""
+      },
+      "Naziv zagovaračke inicijative - 3": {
+        "24": "",
+        "36": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 3": {
+        "24": "",
+        "36": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 3": {
+        "24": "",
+        "36": ""
+      },
+      "Trenutni status inicijative - 3": {
+        "24": "",
+        "36": ""
+      },
+      "Fokus inicijative - 3": {
+        "24": "",
+        "36": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 3": {
+        "24": "",
+        "36": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 3": {
+        "24": "",
+        "36": ""
+      },
+      "Naziv zagovaračke inicijative - 4": {
+        "24": "",
+        "36": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 4": {
+        "24": "",
+        "36": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 4": {
+        "24": "",
+        "36": ""
+      },
+      "Trenutni status inicijative - 4": {
+        "24": "",
+        "36": ""
+      },
+      "Fokus inicijative - 4": {
+        "24": "",
+        "36": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 4": {
+        "24": "",
+        "36": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 4": {
+        "24": "",
+        "36": ""
+      },
+      "Naziv zagovaračke inicijative - 5": {
+        "24": "",
+        "36": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 5": {
+        "24": "",
+        "36": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 5": {
+        "24": "",
+        "36": ""
+      },
+      "Trenutni status inicijative - 5": {
+        "24": "",
+        "36": ""
+      },
+      "Fokus inicijative - 5": {
+        "24": "",
+        "36": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 5": {
+        "24": "",
+        "36": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 5": {
+        "24": "",
+        "36": ""
+      }
+    },
+    "Centar za razvoj zajednice LINK": {
+      "Okrug": {
+        "25": "Zapadno-bački okrug\n",
+        "37": "Zapadno-bački okrug\n"
+      },
+      "Period": {
+        "25": "I kvartal",
+        "37": "II kvartal"
+      },
+      "Započeli sa sprovođenjem neke zagovaračke inicijative u izveštajnom periodu?": {
+        "25": "Ne",
+        "37": "Ne"
+      },
+      "Koliko ste ukupno zagovaračkih inicijativa sprovodili u izveštajnom periodu?": {
+        "25": "",
+        "37": ""
+      },
+      "Naziv zagovaračke inicijative - 1": {
+        "25": "",
+        "37": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 1": {
+        "25": "",
+        "37": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 1": {
+        "25": "",
+        "37": ""
+      },
+      "Trenutni status inicijative - 1": {
+        "25": "",
+        "37": ""
+      },
+      "Fokus inicijative - 1": {
+        "25": "",
+        "37": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 1": {
+        "25": "",
+        "37": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 1": {
+        "25": "",
+        "37": ""
+      },
+      "Naziv zagovaračke inicijative - 2": {
+        "25": "",
+        "37": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 2": {
+        "25": "",
+        "37": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 2": {
+        "25": "",
+        "37": ""
+      },
+      "Trenutni status inicijative - 2": {
+        "25": "",
+        "37": ""
+      },
+      "Fokus inicijative - 2": {
+        "25": "",
+        "37": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 2": {
+        "25": "",
+        "37": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 2": {
+        "25": "",
+        "37": ""
+      },
+      "Naziv zagovaračke inicijative - 3": {
+        "25": "",
+        "37": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 3": {
+        "25": "",
+        "37": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 3": {
+        "25": "",
+        "37": ""
+      },
+      "Trenutni status inicijative - 3": {
+        "25": "",
+        "37": ""
+      },
+      "Fokus inicijative - 3": {
+        "25": "",
+        "37": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 3": {
+        "25": "",
+        "37": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 3": {
+        "25": "",
+        "37": ""
+      },
+      "Naziv zagovaračke inicijative - 4": {
+        "25": "",
+        "37": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 4": {
+        "25": "",
+        "37": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 4": {
+        "25": "",
+        "37": ""
+      },
+      "Trenutni status inicijative - 4": {
+        "25": "",
+        "37": ""
+      },
+      "Fokus inicijative - 4": {
+        "25": "",
+        "37": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 4": {
+        "25": "",
+        "37": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 4": {
+        "25": "",
+        "37": ""
+      },
+      "Naziv zagovaračke inicijative - 5": {
+        "25": "",
+        "37": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 5": {
+        "25": "",
+        "37": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 5": {
+        "25": "",
+        "37": ""
+      },
+      "Trenutni status inicijative - 5": {
+        "25": "",
+        "37": ""
+      },
+      "Fokus inicijative - 5": {
+        "25": "",
+        "37": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 5": {
+        "25": "",
+        "37": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 5": {
+        "25": "",
+        "37": ""
+      }
+    },
+    "Udruženje mladih \"Naš svet, naša pravila\"": {
+      "Okrug": {
+        "26": "Pčinjski okrug\n",
+        "53": "Pčinjski okrug\n"
+      },
+      "Period": {
+        "26": "I kvartal",
+        "53": "II kvartal"
+      },
+      "Započeli sa sprovođenjem neke zagovaračke inicijative u izveštajnom periodu?": {
+        "26": "Da",
+        "53": "Ne"
+      },
+      "Koliko ste ukupno zagovaračkih inicijativa sprovodili u izveštajnom periodu?": {
+        "26": "1\n",
+        "53": ""
+      },
+      "Naziv zagovaračke inicijative - 1": {
+        "26": "Radna grupa za izradu Akcionog plana Strategije za mlade\n",
+        "53": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 1": {
+        "26": "Lokalnim donosiocima odluka",
+        "53": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 1": {
+        "26": "Gradska skupština\n",
+        "53": ""
+      },
+      "Trenutni status inicijative - 1": {
+        "26": "Definisana (određen cilj i razrađen plan zagovaranja)",
+        "53": ""
+      },
+      "Fokus inicijative - 1": {
+        "26": "Mladi",
+        "53": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 1": {
+        "26": "Da",
+        "53": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 1": {
+        "26": "Primljen pozitivan odgovor od strane donosilaca odluka na podnetu zagovaračku inicijativu",
+        "53": ""
+      },
+      "Naziv zagovaračke inicijative - 2": {
+        "26": "",
+        "53": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 2": {
+        "26": "",
+        "53": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 2": {
+        "26": "",
+        "53": ""
+      },
+      "Trenutni status inicijative - 2": {
+        "26": "",
+        "53": ""
+      },
+      "Fokus inicijative - 2": {
+        "26": "",
+        "53": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 2": {
+        "26": "",
+        "53": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 2": {
+        "26": "",
+        "53": ""
+      },
+      "Naziv zagovaračke inicijative - 3": {
+        "26": "",
+        "53": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 3": {
+        "26": "",
+        "53": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 3": {
+        "26": "",
+        "53": ""
+      },
+      "Trenutni status inicijative - 3": {
+        "26": "",
+        "53": ""
+      },
+      "Fokus inicijative - 3": {
+        "26": "",
+        "53": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 3": {
+        "26": "",
+        "53": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 3": {
+        "26": "",
+        "53": ""
+      },
+      "Naziv zagovaračke inicijative - 4": {
+        "26": "",
+        "53": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 4": {
+        "26": "",
+        "53": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 4": {
+        "26": "",
+        "53": ""
+      },
+      "Trenutni status inicijative - 4": {
+        "26": "",
+        "53": ""
+      },
+      "Fokus inicijative - 4": {
+        "26": "",
+        "53": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 4": {
+        "26": "",
+        "53": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 4": {
+        "26": "",
+        "53": ""
+      },
+      "Naziv zagovaračke inicijative - 5": {
+        "26": "",
+        "53": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 5": {
+        "26": "",
+        "53": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 5": {
+        "26": "",
+        "53": ""
+      },
+      "Trenutni status inicijative - 5": {
+        "26": "",
+        "53": ""
+      },
+      "Fokus inicijative - 5": {
+        "26": "",
+        "53": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 5": {
+        "26": "",
+        "53": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 5": {
+        "26": "",
+        "53": ""
+      }
+    },
+    "Polekol": {
+      "Okrug": {
+        "27": "Grad Beograd\n",
+        "58": "Grad Beograd\n"
+      },
+      "Period": {
+        "27": "I kvartal",
+        "58": "II kvartal"
+      },
+      "Započeli sa sprovođenjem neke zagovaračke inicijative u izveštajnom periodu?": {
+        "27": "Da",
+        "58": "Ne"
+      },
+      "Koliko ste ukupno zagovaračkih inicijativa sprovodili u izveštajnom periodu?": {
+        "27": "2\n",
+        "58": ""
+      },
+      "Naziv zagovaračke inicijative - 1": {
+        "27": "Izmene Krivičnog zakonika\n",
+        "58": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 1": {
+        "27": "Nacionalnim donosiocima odluka",
+        "58": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 1": {
+        "27": "Ministarstvo pravde Republike Srbije\n",
+        "58": ""
+      },
+      "Trenutni status inicijative - 1": {
+        "27": "Pokrenuta (javno objavljeno da se počinje sa zagovaranjem)",
+        "58": ""
+      },
+      "Fokus inicijative - 1": {
+        "27": "Zaštita životne sredine",
+        "58": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 1": {
+        "27": "Ne",
+        "58": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 1": {
+        "27": "",
+        "58": ""
+      },
+      "Naziv zagovaračke inicijative - 2": {
+        "27": "Sprečimo \"zlatiborizaciju\" Rtnja\n",
+        "58": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 2": {
+        "27": "Nacionalnim donosiocima odluka",
+        "58": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 2": {
+        "27": "Ministarstvo građevinarstva, saobraćaja i infrastrukture\n",
+        "58": ""
+      },
+      "Trenutni status inicijative - 2": {
+        "27": "Definisana (određen cilj i razrađen plan zagovaranja)",
+        "58": ""
+      },
+      "Fokus inicijative - 2": {
+        "27": "Zaštita životne sredine",
+        "58": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 2": {
+        "27": "Da",
+        "58": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 2": {
+        "27": "Primljen pozitivan odgovor od strane donosilaca odluka na podnetu zagovaračku inicijativu",
+        "58": ""
+      },
+      "Naziv zagovaračke inicijative - 3": {
+        "27": "",
+        "58": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 3": {
+        "27": "",
+        "58": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 3": {
+        "27": "",
+        "58": ""
+      },
+      "Trenutni status inicijative - 3": {
+        "27": "",
+        "58": ""
+      },
+      "Fokus inicijative - 3": {
+        "27": "",
+        "58": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 3": {
+        "27": "",
+        "58": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 3": {
+        "27": "",
+        "58": ""
+      },
+      "Naziv zagovaračke inicijative - 4": {
+        "27": "",
+        "58": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 4": {
+        "27": "",
+        "58": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 4": {
+        "27": "",
+        "58": ""
+      },
+      "Trenutni status inicijative - 4": {
+        "27": "",
+        "58": ""
+      },
+      "Fokus inicijative - 4": {
+        "27": "",
+        "58": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 4": {
+        "27": "",
+        "58": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 4": {
+        "27": "",
+        "58": ""
+      },
+      "Naziv zagovaračke inicijative - 5": {
+        "27": "",
+        "58": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 5": {
+        "27": "",
+        "58": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 5": {
+        "27": "",
+        "58": ""
+      },
+      "Trenutni status inicijative - 5": {
+        "27": "",
+        "58": ""
+      },
+      "Fokus inicijative - 5": {
+        "27": "",
+        "58": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 5": {
+        "27": "",
+        "58": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 5": {
+        "27": "",
+        "58": ""
+      }
+    },
+    "Zaštita potrošača": {
+      "Okrug": {
+        "28": "Grad Beograd\n",
+        "59": "Grad Beograd\n"
+      },
+      "Period": {
+        "28": "I kvartal",
+        "59": "II kvartal"
+      },
+      "Započeli sa sprovođenjem neke zagovaračke inicijative u izveštajnom periodu?": {
+        "28": "Da",
+        "59": "Ne"
+      },
+      "Koliko ste ukupno zagovaračkih inicijativa sprovodili u izveštajnom periodu?": {
+        "28": "1\n",
+        "59": ""
+      },
+      "Naziv zagovaračke inicijative - 1": {
+        "28": "Poboljšanje pristupačnost medijacije uz smanjenje budžetska izdavanja za medijaciju\n",
+        "59": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 1": {
+        "28": "Nacionalnim donosiocima odluka",
+        "59": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 1": {
+        "28": "Ministarstvo unutrašnje i spoljne trgovine\n",
+        "59": ""
+      },
+      "Trenutni status inicijative - 1": {
+        "28": "Inicijativa formalno predstavljena / dostavljena donosiocima odluka",
+        "59": ""
+      },
+      "Fokus inicijative - 1": {
+        "28": "Drugo",
+        "59": ""
+      },
+      "Drugo - Fokus inicijative - 1": {
+        "28": "Zaštita potoršača i Evropske integracije\n"
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 1": {
+        "28": "Da",
+        "59": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 1": {
+        "28": "Drugo",
+        "59": ""
+      },
+      "Drugo - 1": {
+        "28": "Upućena nam je dokumentacije o planu umrežavanja udruženja potoršača kako bi dali svoje mišljenje i predloge.\n"
+      },
+      "Naziv zagovaračke inicijative - 2": {
+        "28": "",
+        "59": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 2": {
+        "28": "",
+        "59": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 2": {
+        "28": "",
+        "59": ""
+      },
+      "Trenutni status inicijative - 2": {
+        "28": "",
+        "59": ""
+      },
+      "Fokus inicijative - 2": {
+        "28": "",
+        "59": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 2": {
+        "28": "",
+        "59": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 2": {
+        "28": "",
+        "59": ""
+      },
+      "Naziv zagovaračke inicijative - 3": {
+        "28": "",
+        "59": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 3": {
+        "28": "",
+        "59": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 3": {
+        "28": "",
+        "59": ""
+      },
+      "Trenutni status inicijative - 3": {
+        "28": "",
+        "59": ""
+      },
+      "Fokus inicijative - 3": {
+        "28": "",
+        "59": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 3": {
+        "28": "",
+        "59": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 3": {
+        "28": "",
+        "59": ""
+      },
+      "Naziv zagovaračke inicijative - 4": {
+        "28": "",
+        "59": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 4": {
+        "28": "",
+        "59": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 4": {
+        "28": "",
+        "59": ""
+      },
+      "Trenutni status inicijative - 4": {
+        "28": "",
+        "59": ""
+      },
+      "Fokus inicijative - 4": {
+        "28": "",
+        "59": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 4": {
+        "28": "",
+        "59": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 4": {
+        "28": "",
+        "59": ""
+      },
+      "Naziv zagovaračke inicijative - 5": {
+        "28": "",
+        "59": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 5": {
+        "28": "",
+        "59": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 5": {
+        "28": "",
+        "59": ""
+      },
+      "Trenutni status inicijative - 5": {
+        "28": "",
+        "59": ""
+      },
+      "Fokus inicijative - 5": {
+        "28": "",
+        "59": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 5": {
+        "28": "",
+        "59": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 5": {
+        "28": "",
+        "59": ""
+      }
+    },
+    "PROAKTIV": {
+      "Okrug": {
+        "29": "Nišavski okrug\n",
+        "50": "Nišavski okrug\n"
+      },
+      "Period": {
+        "29": "I kvartal",
+        "50": "II kvartal"
+      },
+      "Započeli sa sprovođenjem neke zagovaračke inicijative u izveštajnom periodu?": {
+        "29": "Ne",
+        "50": "Ne"
+      },
+      "Koliko ste ukupno zagovaračkih inicijativa sprovodili u izveštajnom periodu?": {
+        "29": "",
+        "50": ""
+      },
+      "Naziv zagovaračke inicijative - 1": {
+        "29": "",
+        "50": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 1": {
+        "29": "",
+        "50": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 1": {
+        "29": "",
+        "50": ""
+      },
+      "Trenutni status inicijative - 1": {
+        "29": "",
+        "50": ""
+      },
+      "Fokus inicijative - 1": {
+        "29": "",
+        "50": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 1": {
+        "29": "",
+        "50": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 1": {
+        "29": "",
+        "50": ""
+      },
+      "Naziv zagovaračke inicijative - 2": {
+        "29": "",
+        "50": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 2": {
+        "29": "",
+        "50": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 2": {
+        "29": "",
+        "50": ""
+      },
+      "Trenutni status inicijative - 2": {
+        "29": "",
+        "50": ""
+      },
+      "Fokus inicijative - 2": {
+        "29": "",
+        "50": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 2": {
+        "29": "",
+        "50": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 2": {
+        "29": "",
+        "50": ""
+      },
+      "Naziv zagovaračke inicijative - 3": {
+        "29": "",
+        "50": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 3": {
+        "29": "",
+        "50": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 3": {
+        "29": "",
+        "50": ""
+      },
+      "Trenutni status inicijative - 3": {
+        "29": "",
+        "50": ""
+      },
+      "Fokus inicijative - 3": {
+        "29": "",
+        "50": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 3": {
+        "29": "",
+        "50": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 3": {
+        "29": "",
+        "50": ""
+      },
+      "Naziv zagovaračke inicijative - 4": {
+        "29": "",
+        "50": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 4": {
+        "29": "",
+        "50": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 4": {
+        "29": "",
+        "50": ""
+      },
+      "Trenutni status inicijative - 4": {
+        "29": "",
+        "50": ""
+      },
+      "Fokus inicijative - 4": {
+        "29": "",
+        "50": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 4": {
+        "29": "",
+        "50": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 4": {
+        "29": "",
+        "50": ""
+      },
+      "Naziv zagovaračke inicijative - 5": {
+        "29": "",
+        "50": ""
+      },
+      "Nivo donosilaca odluka prema kome je ova zagovaračka inicijativa upućena? - 5": {
+        "29": "",
+        "50": ""
+      },
+      "Naziv institucije kojoj je incijativa upućena? - 5": {
+        "29": "",
+        "50": ""
+      },
+      "Trenutni status inicijative - 5": {
+        "29": "",
+        "50": ""
+      },
+      "Fokus inicijative - 5": {
+        "29": "",
+        "50": ""
+      },
+      "Da li ste u izveštajnom periodu primili neki odgovor od donosilaca odluka kojima ste inicijativu uputili? - 5": {
+        "29": "",
+        "50": ""
+      },
+      "Kakav odgovor ste primili od strane donosilaca odluka? - 5": {
+        "29": "",
+        "50": ""
+      }
+    }
+  }
+}
