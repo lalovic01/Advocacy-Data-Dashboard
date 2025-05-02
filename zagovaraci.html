@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="sr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pregled zagovaračkih inicijativa</title>
+    <link rel="stylesheet" href="zagovaraciStil.css" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="zagovaraci.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    />
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <h1>Pregled zagovaračkih inicijativa</h1>
+        <p>
+          Analiza i vizualizacija podataka o zagovaračkim inicijativama
+          organizacija
+        </p>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="filters">
+        <h2>Filteri</h2>
+        <div class="filter-grid">
+          <div class="filter-group">
+            <label for="period-filter">Period:</label>
+            <select id="period-filter">
+              <option value="all">Svi periodi</option>
+              <option value="I kvartal">I kvartal</option>
+              <option value="II kvartal">II kvartal</option>
+            </select>
+          </div>
+          <div class="filter-group">
+            <label for="okrug-filter">Okrug:</label>
+            <select id="okrug-filter">
+              <option value="all">Svi okruzi</option>
+            </select>
+          </div>
+          <div class="filter-group">
+            <label for="status-filter">Status inicijative:</label>
+            <select id="status-filter">
+              <option value="all">Svi statusi</option>
+              <option
+                value="Definisana (određen cilj i razrađen plan zagovaranja)"
+              >
+                Definisana
+              </option>
+              <option
+                value="Pokrenuta (javno objavljeno da se počinje sa zagovaranjem)"
+              >
+                Pokrenuta
+              </option>
+              <option value="Baza podrške upoznata sa inicijativom">
+                Baza podrške upoznata
+              </option>
+              <option
+                value="Inicijativa formalno predstavljena / dostavljena donosiocima odluka"
+              >
+                Formalno predstavljena
+              </option>
+              <option
+                value="Inicijativa medijski prezentovana (društvene mreže i/ili tradicionalni mediji)"
+              >
+                Medijski prezentovana
+              </option>
+            </select>
+          </div>
+          <div class="filter-group">
+            <label for="fokus-filter">Fokus inicijative:</label>
+            <select id="fokus-filter">
+              <option value="all">Svi fokusi</option>
+              <option value="Zaštita životne sredine">
+                Zaštita životne sredine
+              </option>
+              <option value="Socijalna inkluzija i ranjive grupe">
+                Socijalna inkluzija
+              </option>
+              <option value="Rodna ravnopravnost">Rodna ravnopravnost</option>
+              <option value="Mladi">Mladi</option>
+              <option value="Ljudska i građanska prava">
+                Ljudska i građanska prava
+              </option>
+              <option value="Dobro upravljanje">Dobro upravljanje</option>
+              <option value="Drugo">Drugo</option>
+            </select>
+          </div>
+          <div class="filter-group">
+            <label for="nivo-filter">Nivo donosilaca odluka:</label>
+            <select id="nivo-filter">
+              <option value="all">Svi nivoi</option>
+              <option value="Lokalnim donosiocima odluka">Lokalni nivo</option>
+              <option value="Nacionalnim donosiocima odluka">
+                Nacionalni nivo
+              </option>
+              <option value="Drugo (navedite)">Drugo</option>
+            </select>
+          </div>
+          <div class="filter-group">
+            <label for="odgovor-filter">Primljen odgovor:</label>
+            <select id="odgovor-filter">
+              <option value="all">Svi</option>
+              <option value="Da">Da</option>
+              <option value="Ne">Ne</option>
+            </select>
+          </div>
+        </div>
+        <button id="apply-filters" class="btn primary">Primeni filtere</button>
+        <button id="reset-filters" class="btn secondary">
+          Resetuj filtere
+        </button>
+      </section>
+
+      <section class="map-section">
+        <h2>Geografska distribucija inicijativa</h2>
+        <div class="map-container">
+          <div id="serbia-map"></div>
+          <div class="map-legend">
+            <h3>Okruzi</h3>
+            <div class="legend-info">
+              <ul class="legend-list">
+                <li>
+                  <span class="legend-color available-legend"></span> Okruzi sa
+                  podacima - kliknite za filtriranje
+                </li>
+                <li>
+                  <span class="legend-color unavailable-legend"></span> Okruzi
+                  bez podataka
+                </li>
+                <li>
+                  <span class="legend-color active-legend"></span> Aktivno
+                  filtriranje
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="stats-overview">
+        <h2>Pregled statistike</h2>
+        <div class="stats-grid">
+          <div class="stat-card">
+            <i class="fas fa-list"></i>
+            <div class="stat-info">
+              <h3>Ukupno inicijativa</h3>
+              <p id="total-initiatives">0</p>
+            </div>
+          </div>
+          <div class="stat-card">
+            <i class="fas fa-building"></i>
+            <div class="stat-info">
+              <h3>Broj aktivnih organizacija</h3>
+              <p id="active-organizations">0</p>
+            </div>
+          </div>
+          <div class="stat-card">
+            <i class="fas fa-check-circle"></i>
+            <div class="stat-info">
+              <h3>Primljenih odgovora</h3>
+              <p id="received-responses">0</p>
+            </div>
+          </div>
+          <div class="stat-card">
+            <i class="fas fa-thumbs-up"></i>
+            <div class="stat-info">
+              <h3>Pozitivnih odgovora</h3>
+              <p id="positive-responses">0</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="charts">
+        <div class="chart-row">
+          <div class="chart-container">
+            <h2>Inicijative po fokusu</h2>
+            <canvas id="focus-chart"></canvas>
+          </div>
+          <div class="chart-container">
+            <h2>Inicijative po nivou donosilaca</h2>
+            <canvas id="level-chart"></canvas>
+          </div>
+        </div>
+        <div class="chart-row">
+          <div class="chart-container">
+            <h2>Status inicijativa</h2>
+            <canvas id="status-chart"></canvas>
+          </div>
+          <div class="chart-container">
+            <h2>Inicijative po kvartalu</h2>
+            <canvas id="period-chart"></canvas>
+          </div>
+        </div>
+        <div class="chart-row">
+          <div class="chart-container full-width">
+            <h2>Geografska distribucija inicijativa</h2>
+            <canvas id="region-chart" height="200"></canvas>
+          </div>
+        </div>
+      </section>
+
+      <section class="initiatives-list">
+        <h2>Lista inicijativa</h2>
+        <div class="table-container">
+          <table id="initiatives-table">
+            <thead>
+              <tr>
+                <th>Organizacija</th>
+                <th>Naziv inicijative</th>
+                <th>Fokus</th>
+                <th>Status</th>
+                <th>Nivo</th>
+                <th>Period</th>
+                <th>Odgovor</th>
+                <th>Detalji</th>
+              </tr>
+            </thead>
+            <tbody id="initiatives-body"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+
+    <div id="initiative-modal" class="modal">
+      <div class="modal-content">
+        <span class="close">&times;</span>
+        <h2 id="modal-title"></h2>
+        <div id="modal-content"></div>
+      </div>
+    </div>
+
+    <footer>
+      <div class="container">
+        <p>&copy; 2025 Pregled zagovaračkih inicijativa. Sva prava zadržana.</p>
+      </div>
+    </footer>
+  </body>
+</html>
